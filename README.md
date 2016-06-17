@@ -70,3 +70,4 @@
 - [ ] criar area de treiners
 - [ ] equip hotkey 
 - [ ] colocar os novos potions nas lojas
+- [ ] arrumar mapa de roshamuul parte norte
