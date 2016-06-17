@@ -72,4 +72,7 @@
 - [ ] colocar os novos potions nas lojas
 - [ ] arrumar mapa de roshamuul parte norte
 - [ ] arrumar o decay time do corpo do Obujos
+- [ ] corrigir a vida do gaz'haragoth
+- [ ] arrumar escadas da cave de terrorsleep em roshamuul
 - 
+
