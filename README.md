@@ -69,3 +69,4 @@
 - [ ] atualizar o global depot (tirar os townid do mapa)
 - [ ] criar area de treiners
 - [ ] equip hotkey 
+- [ ] colocar os novos potions nas lojas
