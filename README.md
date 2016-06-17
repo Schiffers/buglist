@@ -64,3 +64,8 @@
 - [ ] trackear mapas da bibby bloodbath
 - [ ] rework de alguns lugares do mapa que estão muito feios
 - [ ] trackear hunt de quaras em liberty bay
+- [ ] fazer world change sight of surrender valley
+- [ ] atualizar shop ingame (market, transfer coins, history limit)
+- [ ] atualizar o global depot (tirar os townid do mapa)
+- [ ] criar area de treiners
+- [ ] equip hotkey 
