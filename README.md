@@ -14,6 +14,7 @@
 - [ ] new pits of inferno - CUSTOM
 - [ ] deep catacombs - CUSTOM
 - [ ] the heart of destruction 
+- [ ] devovorga event
 
 # Quests to test
 - [ ] dreams challange
@@ -77,4 +78,7 @@
 - [ ] arrumar escadas da cave de terrorsleep em roshamuul
 - [ ] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
 - [ ] remover necessidade dos soils pra entrar nos demons de yalahar
+- [ ] fazer evento da chayenne
+- [ ] arrumar a saida do chayenne dream realm
+- [ ] remover necessidade de quest para negociar com rashid
 
