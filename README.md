@@ -75,4 +75,5 @@
 - [ ] corrigir a vida do gaz'haragoth
 - [ ] arrumar escadas da cave de terrorsleep em roshamuul
 - [ ] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
+- [ ] remover necessidade dos soils pra entrar nos demons de yalahar
 
