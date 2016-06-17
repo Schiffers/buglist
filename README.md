@@ -21,6 +21,7 @@
 - [ ] wrath of the imperor
 - [ ] helmet of the ancients
 - [ ] hidden city of beregar
+- [ ] elemental spheres
 
 # Bugs to fix (portuguese)
 - [ ] entrada dos war golems yalahar (machines)
