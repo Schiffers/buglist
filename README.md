@@ -26,7 +26,7 @@
 - [ ] entrada dos war golems yalahar (machines)
 - [ ] colocar entrada pro outro fury gate (movement)
 - [ ] tirar action da escadinha de madeira id 19510
-- [ ] colocar respawn na cave de dragon lords de darashia
+- [x] colocar respawn na cave de dragon lords de darashia
 - [ ] colocar nome no buraco id 23713 // downstair
 - [ ] colocar nomes dos items 10.80/90/94 items de quest
 - [ ] fazer movements pros "foguinhos" de grimvale, verde = cura, azul = speed
