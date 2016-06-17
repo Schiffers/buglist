@@ -81,4 +81,8 @@
 - [ ] fazer evento da chayenne
 - [ ] arrumar a saida do chayenne dream realm
 - [ ] remover necessidade de quest para negociar com rashid
+- [ ] arena pvp de thais, edron, oramond e ankrahmun
+- [ ] colocar respawn na montanha de dragons perto da tumba de pixe
+- [ ] arrumar o burado do "atalho" da poi
+- [ ] 
 
