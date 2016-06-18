@@ -51,10 +51,9 @@
 - [ ] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
 - [ ] arrumar porta id 12701
-- [ ] fazer npcs de krailos (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
 - [ ] arrumar npc pra levar os players pra ilha dos wyrms
 - [ ] arrumar action de entrada pro dp de krailos
-- [ ] arrumar entrada da cave underwkraater em krailos
+- [ ] arrumar entrada da cave underwater em krailos
 - [ ] arrumar museu de thais (alguns items faltando configuração)
 - [ ] fazer um vendedor de arrows e bolts e colocar perto do castelo de thais
 - [ ] fazer action pros ovinhos de aranha
@@ -85,6 +84,8 @@
 - [ ] arrumar o burado do "atalho" da poi
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
+- [ ] arrumar escadas da cave de dragon lords de darashia
+- [ ] arrumar uma montanha "bugada" na cave dos dragon lords em darashia
 
 # Em andamento de correção
 
