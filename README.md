@@ -28,7 +28,6 @@
 - [ ] entrada dos war golems yalahar (machines)
 - [ ] colocar entrada pro outro fury gate (movement)
 - [ ] tirar action da escadinha de madeira id 19510
-- [x] colocar respawn na cave de dragon lords de darashia
 - [ ] colocar nome no buraco id 23713 // downstair
 - [ ] colocar nomes dos items 10.80/90/94 items de quest
 - [ ] fazer movements pros "foguinhos" de grimvale, verde = cura, azul = speed
@@ -55,7 +54,7 @@
 - [ ] fazer npcs de krailos (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
 - [ ] arrumar npc pra levar os players pra ilha dos wyrms
 - [ ] arrumar action de entrada pro dp de krailos
-- [ ] arrumar entrada da cave underwater em krailos
+- [ ] arrumar entrada da cave underwkraater em krailos
 - [ ] arrumar museu de thais (alguns items faltando configuração)
 - [ ] fazer um vendedor de arrows e bolts e colocar perto do castelo de thais
 - [ ] fazer action pros ovinhos de aranha
@@ -87,3 +86,10 @@
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
 
+# Em andamento de correção
+
+- [ ] fazer npcs de krailos (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
+
+# Corrigidos
+
+- [x] colocar respawn na cave de dragon lords de darashia
