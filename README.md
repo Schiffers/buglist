@@ -26,7 +26,6 @@
 
 # Bugs to fix (portuguese)
 - [ ] entrada dos war golems yalahar (machines)
-- [ ] colocar entrada pro outro fury gate (movement)
 - [ ] tirar action da escadinha de madeira id 19510
 - [ ] colocar nome no buraco id 23713 // downstair
 - [ ] colocar nomes dos items 10.80/90/94 items de quest
@@ -36,7 +35,6 @@
 - [ ] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (fazer a quest deste), Jeremy, cornell, Junkar
 - [ ] colocar nome no nightmare teddy id 24351
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
-- [ ] arrumar atalho da banuta o teleport inicial, e os outros dois (com ou seu egg of the many)
 - [ ] remover necessidade da banuta quest para ir em forbbiden lands
 - [ ] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
 - [ ] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
@@ -47,7 +45,6 @@
 - [ ] arrumar modo de pegar o leech (montaria do buffalo)
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
 - [ ] arrumar npcs pra ir pra robson's isle
-- [ ] colocar respawn na cavezinha perto da mama longlegs
 - [ ] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
 - [ ] arrumar porta id 12701
@@ -70,22 +67,14 @@
 - [ ] criar area de treiners
 - [ ] equip hotkey 
 - [ ] colocar os novos potions nas lojas
-- [ ] arrumar mapa de roshamuul parte norte
 - [ ] arrumar o decay time do corpo do Obujos
 - [ ] corrigir a vida do gaz'haragoth
 - [ ] arrumar escadas da cave de terrorsleep em roshamuul
 - [ ] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
-- [ ] remover necessidade dos soils pra entrar nos demons de yalahar
 - [ ] fazer evento da chayenne
-- [ ] arrumar a saida do chayenne dream realm
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
-- [ ] colocar respawn na montanha de dragons perto da tumba de pixe
-- [ ] arrumar o burado do "atalho" da poi
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
-- [ ] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
-- [ ] arrumar escadas da cave de dragon lords de darashia
-- [ ] arrumar uma montanha "bugada" na cave dos dragon lords em darashia
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 
 # Em andamento de correção
@@ -95,3 +84,14 @@
 # Corrigidos
 
 - [x] colocar respawn na cave de dragon lords de darashia
+- [x] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
+- [x] arrumar escadas da cave de dragon lords de darashia
+- [x] arrumar uma montanha "bugada" na cave dos dragon lords em darashia
+- [x] arrumar o burado do "atalho" da poi
+- [x] colocar respawn na montanha de dragons perto da tumba de pixe
+- [x] arrumar a saida do chayenne dream realm
+- [x] remover necessidade dos soils pra entrar nos demons de yalahar
+- [x] arrumar mapa de roshamuul parte norte
+- [x] colocar respawn na cavezinha perto da mama longlegs
+- [x] arrumar atalho da banuta o teleport inicial, e os outros dois (com ou seu egg of the many)
+- [x] colocar entrada pro outro fury gate (movement)
