@@ -84,5 +84,5 @@
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [ ] colocar respawn na montanha de dragons perto da tumba de pixe
 - [ ] arrumar o burado do "atalho" da poi
-- [ ] 
+- [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 
