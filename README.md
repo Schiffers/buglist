@@ -86,6 +86,7 @@
 - [ ] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
 - [ ] arrumar escadas da cave de dragon lords de darashia
 - [ ] arrumar uma montanha "bugada" na cave dos dragon lords em darashia
+- [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 
 # Em andamento de correção
 
