@@ -15,6 +15,7 @@
 - [ ] deep catacombs - CUSTOM
 - [ ] the heart of destruction 
 - [ ] devovorga event
+- [ ] the spike quest
 
 # Quests to test
 - [ ] dreams challange
@@ -63,7 +64,6 @@
 - [ ] trackear hunt de quaras em liberty bay
 - [ ] fazer world change sight of surrender valley
 - [ ] atualizar shop ingame (market, transfer coins, history limit)
-- [ ] atualizar o global depot (tirar os townid do mapa)
 - [ ] criar area de treiners
 - [ ] equip hotkey 
 - [ ] colocar os novos potions nas lojas
@@ -76,6 +76,7 @@
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
+- [ ] colocar detalhes na cave de goldhaven
 
 # Em andamento de correção
 
@@ -95,3 +96,7 @@
 - [x] colocar respawn na cavezinha perto da mama longlegs
 - [x] arrumar atalho da banuta o teleport inicial, e os outros dois (com ou seu egg of the many)
 - [x] colocar entrada pro outro fury gate (movement)
+- [x] respawns da cave de dragons em trebas
+- [x] respawns das caves de queenswood
+- [x] respawns da ilha perto de carlin - CUSTOM
+- [x] atualizar o global depot (tirar os townid do mapa)
