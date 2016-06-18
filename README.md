@@ -85,4 +85,5 @@
 - [ ] colocar respawn na montanha de dragons perto da tumba de pixe
 - [ ] arrumar o burado do "atalho" da poi
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
+- [ ] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
 
