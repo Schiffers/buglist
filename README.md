@@ -76,6 +76,7 @@
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
+- [ ] renomear npc cornell em grimvale para CornellGV[xml]
 
 # Em andamento de correção
 
