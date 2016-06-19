@@ -63,7 +63,6 @@
 - [ ] rework de alguns lugares do mapa que estão muito feios
 - [ ] trackear hunt de quaras em liberty bay
 - [ ] fazer world change sight of surrender valley
-- [ ] atualizar shop ingame (market, transfer coins, history limit)
 - [ ] criar area de treiners
 - [ ] equip hotkey 
 - [ ] arrumar o decay time do corpo do Obujos
@@ -79,6 +78,7 @@
 
 # Em andamento de correção
 
+- [ ] atualizar shop ingame (market, transfer coins, history limit) [LIMIT FUNCIONANDO]
 
 # Corrigidos
 
