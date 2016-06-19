@@ -35,7 +35,6 @@
 - [ ] fazer movements pros "foguinhos" de grimvale, verde = cura, azul = speed
 - [ ] colocar no global.lua id das portas do 10.90
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
-- [ ] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (fazer a quest deste), Jeremy, cornell, Junkar
 - [ ] colocar nome no nightmare teddy id 24351
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
 - [ ] remover necessidade da banuta quest para ir em forbbiden lands
@@ -81,6 +80,7 @@
 # Em andamento de correção
 
 - [x] corrigir outfits (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
+- [x] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (fazer a quest deste), Jeremy, cornell, Junkar
 
 # Corrigidos
 
