@@ -164,3 +164,253 @@
 	</item>
 	<item fromid="24818" toid="24819" article="a" name="stairs"/>
 	<item fromid="24830" toid="24836" article="a" name="part of the godbreaker"/>
+	<item id="24838" article="a" name="teleportation rod">
+		<attribute key="weight" value="3000" />
+		<attribute key="description" value="A rod to be powerful enough to transport the godbreaker parts to a place of safety." />
+	</item>
+	<item id="25158" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25159" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25160" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25161" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25162" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25163" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25164" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25165" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item fromid="25200" toid="25220" article="a" name="stone wall"/>
+	<item fromid="25223" toid="25226" article="a" name="stone archway"/>
+	<item fromid="25235" toid="25240" article="a" name="broken stone wall"/>
+	<item fromid="25241" toid="25274" article="a" name="energetic wall"/>
+	<item id="25282" article="a" name="pile of bones"/>
+	<item id="25283" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25284" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25285" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25286" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25287" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25288" article="a" name="gate of expertise">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+		<attribute key="leveldoor" value="1000" />
+	</item>
+	<item id="25289" article="an" name="gate of expertise">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25290" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25291" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25292" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25293" article="a" name="closed door">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+	</item>
+	<item id="25294" article="an" name="open door">
+		<attribute key="type" value="door" />
+	</item>
+	<item id="25295" article="a" name="gate of expertise">
+		<attribute key="type" value="door" />
+		<attribute key="blockprojectile" value="1" />
+		<attribute key="leveldoor" value="1000" />
+	</item>
+	<item id="25296" article="an" name="gate of expertise">
+		<attribute key="type" value="door" />
+	</item>
+		<item id="25381" article="a" name="rift lamp">
+		<attribute key="weight" value="800" />
+	</item>
+	<item id="25390" article="a" name="rift lamp">
+		<attribute key="weight" value="800" />
+	</item>
+	<item id="25391" article="a" name="lit rift lamp">
+		<attribute key="weight" value="800" />
+	</item>
+	<item id="25392" article="a" name="rift carpet"/>
+	<item id="25393" article="a" name="folded rift carpet">
+		<attribute key="weight" value="1000" />
+		<attribute key="description" value="This carpet is extremely soft to the touch - and forever will be." />
+	</item>
+	<item id="25422" article="a" name="ferumbras' staff">
+		<attribute key="description" value="It is made of platinum and emeralds and topped by a large F made of gold." />
+		<attribute key="weight" value="2250" />
+	</item>
+	<item id="25431" article="a" name="ferumbras' teddy">
+		<attribute key="weight" value="390" />
+	</item>
+	<item id="25535" article="a" name="ferumbras' teddy santa">
+		<attribute key="weight" value="650" />
+	</item>
+	<item fromid="26055" toid="26056" article="a" name="mailbox"/>
+	<item fromid="26057" toid="26058" article="an" name="ornate mailbox"/>
+	<item id="26059" article="a" name="magnificent chair">
+		<attribute key="rotateTo" value="26060" />
+	</item>
+	<item id="26060" article="a" name="magnificent chair">
+		<attribute key="rotateTo" value="26061" />
+	</item>
+	<item id="26061" article="a" name="magnificent chair">
+		<attribute key="rotateTo" value="26062" />
+	</item>
+	<item id="26062" article="a" name="magnificent chair">
+		<attribute key="rotateTo" value="26059" />
+	</item>
+	<item id="26063" article="a" name="ferocious chair">
+		<attribute key="rotateTo" value="26064" />
+	</item>
+	<item id="26064" article="a" name="ferocious chair">
+		<attribute key="rotateTo" value="26065" />
+	</item>
+	<item id="26065" article="a" name="ferocious chair">
+		<attribute key="rotateTo" value="26066" />
+	</item>
+	<item id="26066" article="a" name="ferocious chair">
+		<attribute key="rotateTo" value="26063" />
+	</item>
+	<item id="26067" article="a" name="ferocious table">
+		<attribute key="rotateTo" value="26066" />
+	</item>
+	<item id="26070" article="a" name="ferocious table">
+		<attribute key="rotateTo" value="26067" />
+	</item>
+	<item id="26073" article="a" name="magnificent table">
+		<attribute key="rotateTo" value="26074" />
+	</item>
+	<item id="26074" article="a" name="magnificent table">
+		<attribute key="rotateTo" value="26073" />
+	</item>
+	<item id="26075" article="a" name="magnificent cabinet">
+		<attribute key="rotateTo" value="26076" />
+		<attribute key="containerSize" value="8" />
+	</item>
+	<item id="26076" article="a" name="magnificent cabinet">
+		<attribute key="rotateTo" value="26075" />
+		<attribute key="containerSize" value="8" />
+	</item>
+	<item id="26077" article="a" name="ferocious cabinet">
+		<attribute key="rotateTo" value="26078" />
+		<attribute key="containerSize" value="8" />
+	</item>
+	<item id="26078" article="a" name="ferocious cabinet">
+		<attribute key="rotateTo" value="26077" />
+		<attribute key="containerSize" value="8" />
+	</item>
+	<item id="26079" article="a" name="ferocious trunk">
+		<attribute key="rotateTo" value="26080" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26080" article="a" name="ferocious trunk">
+		<attribute key="rotateTo" value="26081" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26081" article="a" name="ferocious trunk">
+		<attribute key="rotateTo" value="26082" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26082" article="a" name="ferocious trunk">
+		<attribute key="rotateTo" value="26079" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26083" article="a" name="magnificent trunk">
+		<attribute key="rotateTo" value="26084" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26084" article="a" name="magnificent trunk">
+		<attribute key="rotateTo" value="26085" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26085" article="a" name="magnificent trunk">
+		<attribute key="rotateTo" value="26086" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26086" article="a" name="magnificent trunk">
+		<attribute key="rotateTo" value="26083" />
+		<attribute key="containerSize" value="18" />
+	</item>
+	<item id="26087" article="a" name="yalaharian carpet"/>
+	<item id="26088" article="a" name="white fur carpet"/>
+	<item id="26087" article="a" name="bamboo mat"/>
+	<item id="26090" article="a" name="predator lamp">
+		<attribute key="rotateTo" value="26091" />
+	</item>
+	<item id="26091" article="a" name="predator lamp">
+		<attribute key="rotateTo" value="26090" />
+	</item>
+	<item id="26092" article="a" name="lit predator lamp">
+		<attribute key="rotateTo" value="26093" />
+	</item>
+	<item id="26093" article="a" name="lit predator lamp">
+		<attribute key="rotateTo" value="26092" />
+	</item>
+	<item id="26094" article="a" name="protectress lamp">
+		<attribute key="rotateTo" value="26095" />
+	</item>
+	<item id="26095" article="a" name="protectress lamp">
+		<attribute key="rotateTo" value="26094" />
+	</item>
+	<item id="26096" article="a" name="lit protectress lamp">
+		<attribute key="rotateTo" value="26097" />
+	</item>
+	<item id="26097" article="a" name="lit protectress lamp">
+		<attribute key="rotateTo" value="26096" />
+	</item>
+	<item id="26098" article="a" name="baby dragon">
+		<attribute key="description" value="This baby dragon is looking at you very attentively." />
+	</item>
+	<item id="26099" article="a" name="baby dragon">
+		<attribute key="description" value="The baby dragon seems to hide from you." />
+	</item>
+	<item id="26100" article="a" name="hamster in a wheel">
+		<attribute key="description" value="This hamster sits very relaxed in his wheel and seems at ease with the world." />
+	</item>
+	<item id="26101" article="a" name="hamster in a wheel">
+		<attribute key="description" value="This hamster is happily running about in his wheel." />
+	</item>
+	<item id="26104" article="a" name="lordly tapestry"/>
+	<item id="26105" article="a" name="menacing tapestry"/>
+	<item id="26107" article="a" name="all-seeing tapestry"/>
+	<item id="26108" article="a" name="cat in a basket">
+		<attribute key="description" value="This cat is enjoying a carefree nap." />
+	</item>
+	<item id="26109" article="a" name="cat in a basket">
+		<attribute key="description" value="This cat takes her tidiness very seriously with a thoughtful catlick." />
+	</item>
+	<item id="26110" article="a" name="yalaharian tapestry"/>
+	<item id="26111" article="a" name="white fur tapestry"/>
+	<item id="26113" article="a" name="bamboo mat"/>
