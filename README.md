@@ -68,7 +68,6 @@
 - [ ] atualizar shop ingame (market, transfer coins, history limit)
 - [ ] criar area de treiners
 - [ ] equip hotkey 
-- [ ] colocar os novos potions nas lojas
 - [ ] arrumar o decay time do corpo do Obujos
 - [ ] corrigir a vida do gaz'haragoth
 - [ ] arrumar escadas da cave de terrorsleep em roshamuul
@@ -103,3 +102,4 @@
 - [x] atualizar o global depot (tirar os townid do mapa)
 - [x] npcs 10.80 adicionados
 - [x] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
+- [x] colocar os novos potions nas lojas
