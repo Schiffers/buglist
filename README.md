@@ -76,12 +76,10 @@
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
-- [ ] renomear npc cornell em grimvale para CornellGV[xml]
+- [ ] renomear npc cornell em grimvale para CornellGV[xml] e arrumar NPC Junkar
 
 # Em andamento de correção
 
-- [x] corrigir outfits (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
-- [x] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (fazer a quest deste), Jeremy, cornell, Junkar
 
 # Corrigidos
 
@@ -104,3 +102,5 @@
 - [x] npcs 10.80 adicionados
 - [x] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
 - [x] colocar os novos potions nas lojas
+- [x] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (falta a quest), Jeremy e Russeou
+- [x] corrigir outfits (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
