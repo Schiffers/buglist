@@ -1,0 +1,166 @@
+<item id="24620" article="a" name="hoard of dragon gold">	
+		<attribute key="description" value="There is far too much gold here to carry." />
+	</item>
+	<item id="24621" name="snow">
+		<attribute key="description" value="There is a hole in the ceiling." />
+	</item>
+	<item id="24622" name="rock soil">
+		<attribute key="description" value="There is a hole in the ceiling." />
+	</item>
+	<item id="24623" name="grass">
+		<attribute key="description" value="There is a hole in the ceiling." />
+	</item>
+	<item id="24624" name="ocean floor">
+		<attribute key="description" value="There is a hole in the ceiling." />
+	</item>
+	<item id="24627" name="hole">
+		<attribute key="floorchange" value="down" />
+	</item>
+	<item id="24628" name="mud stain">
+		<attribute key="floorchange" value="down" />
+	</item>
+	<item id="24629" name="some cracks"/>
+	<item id="24630" article="a" name="golden lotus brooch">
+		<attribute key="weight" value="100" />
+	</item>
+	<item id="24631" article="a" name="peacock feather fan">
+		<attribute key="weight" value="200" />
+	</item>
+	<item id="24637" article="an" name="oriental shoes">
+		<attribute key="weight" value="500" />
+		<attribute key="armor" value="2" />
+		<attribute key="speed" value="30" />
+	</item>
+	<item id="24638" article="a" name="nightmare teddy">
+		<attribute key="weight" value="590" />
+	</item>
+	<item id="24663" article="a" name="gloom wolf fur">
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="24664" article="an" name="antler talisman">
+		<attribute key="weight" value="240" />
+		<attribute key="description" value="It is an antler, entwined with star herb." />
+	</item>
+	<item id="24665" article="a" name="sacred antler talisman">
+		<attribute key="weight" value="240" />
+		<attribute key="description" value="It is an antler, entwined with star herb and blessed with holy water." />
+	</item>
+	<item id="24707" article="a" name="werebadger claws">
+		<attribute key="weight" value="110" />
+	</item>
+	<item id="24708" article="a" name="werewolf fang">
+		<attribute key="weight" value="160" />
+	</item>
+	<item id="24709" article="a" name="wereboar hooves">
+		<attribute key="weight" value="250" />
+	</item>
+	<item id="24710" article="a" name="wereboar tusk">
+		<attribute key="weight" value="190" />
+	</item>
+	<item id="24711" article="a" name="werebadger skull">
+		<attribute key="weight" value="300" />
+	</item>
+	<item id="24712" article="a" name="werebear skull">
+		<attribute key="weight" value="500" />
+	</item>
+	<item id="24713" article="a" name="werebear fur">
+		<attribute key="weight" value="500" />
+	</item>
+	<item id="24714" article="a" name="vial of liquid silver">
+		<attribute key="weight" value="240" />
+		<attribute key="description" value="It shimmers faintly, like the full moon." />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="86400" />
+	</item>
+	<item id="24715" article="a" name="silvered trap"/>
+	<item id="24716" article="a" name="werewolf amulet">
+		<attribute key="weight" value="550" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	<item id="24717" article="an" name="enchanted werewolf amulet">
+		<attribute key="weight" value="550" />
+		<attribute key="armor" value="2" />
+		<attribute key="absorbPercentPhysical" value="3" />
+		<attribute key="decayTo" value="24716" />
+		<attribute key="duration" value="3600" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	<item id="24718" article="a" name="werewolf helmet">
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="9" />
+		<attribute key="speed" value="30" />
+		<attribute key="slotType" value="head" />
+	</item>	
+	<item id="24730" article="a" name="closed silvered trap">
+		<attribute key="weight" value="2200" />
+		<attribute key="description" value="It looks like a common leghold trap, but the jags are coated in silver. The trap is closed and safe." />
+	</item>	
+	<item id="24731" article="a" name="stone wall"/>
+	<item fromid="24733" toid="24734" article="a" name="strangely glowing mark"/>
+	<item id="24738" article="a" name="purple nightshade blossoms">
+		<attribute key="weight" value="200" />
+	</item>	
+	<item id="24739" name="moonlight crystal">
+		<attribute key="weight" value="400" />
+	</item>	
+	<item id="24741" article="a" name="fur armor">
+		<attribute key="weight" value="4900" />
+		<attribute key="armor" value="11" />
+		<attribute key="absorbPercentIce" value="5" />
+		<attribute key="absorbPercentEarth" value="5" />
+		<attribute key="slotType" value="body" />
+	</item>	
+	<item id="24742" article="a" name="badger boots">
+		<attribute key="weight" value="1200" />
+		<attribute key="armor" value="2" />
+		<attribute key="speed" value="20" />
+		<attribute key="slotType" value="feet" />
+	</item>	
+	<item id="24743" article="a" name="wereboar loincloth">
+		<attribute key="weight" value="1300" />
+		<attribute key="armor" value="6" />
+		<attribute key="speed" value="20" />
+		<attribute key="slotType" value="legs" />
+		<attribute key="description" value="They offer little protection but will at least provide some comfort and warmth." />
+	</item>	
+	<item id="24763" article="a" name="adventurer's map">
+		<attribute key="weight" value="200" />
+		<attribute key="description" value="This map shows various locations of Tibia above and below sea level." />
+	</item>	
+	<item id="24774" article="a" name="Tibia Coins">
+		<attribute key="description" value="Tibia Coins are needed to shop exclusive products in the Store, including fabulous mounts, classy outfits, a Name Change or even Premium Time." />
+	</item>	
+	
+	<item id="24780" article="a" name="dead owin">
+		<attribute key="containerSize" value="22" />
+		<attribute key="decayTo" value="24782" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="24782" article="a" name="dead owin">
+		<attribute key="containerSize" value="22" />
+		<attribute key="decayTo" value="24787" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="24787" article="a" name="dead owin">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="24789" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="24789" article="a" name="dead owin">
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item fromid="24807" toid="24808" article="a" name="cateroide's doll">
+		<attribute key="weight" value="1500" />
+		<attribute key="description" value="A rare doll that only worthy warriors can touch! Awarded by Cateroide.com.br." />
+	</item>
+	<item fromid="24818" toid="24819" article="a" name="stairs"/>
+	<item fromid="24830" toid="24836" article="a" name="part of the godbreaker"/>
