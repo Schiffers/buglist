@@ -81,7 +81,7 @@
 
 # Em andamento de correção
 
-----
+- [x] corrigir outfits (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
 
 # Corrigidos
 
@@ -101,4 +101,4 @@
 - [x] respawns das caves de queenswood
 - [x] respawns da ilha perto de carlin - CUSTOM
 - [x] atualizar o global depot (tirar os townid do mapa)
-- [x] fazer npcs de krailos (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
+- [x] npcs 10.80 adicionados
