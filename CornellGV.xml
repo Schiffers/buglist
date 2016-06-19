@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<npc name="Cornell" script="CornellGV.lua" walkinterval="1500" speed="100" walkradius="2" floorchange="0">
-	<health max="100" now="100"/>
-	<look type="129" head="114" body="99" legs="59" feet="115" addons="2" mount="0"/>
-</npc>
