@@ -8,7 +8,7 @@
 - [ ] liquid black quest
 - [ ] mysterious ornate chest
 - [ ] quest dos seals fodões em venore (perto dos grim reapers) -- CUSTOM
-- [ ] lions rock quest
+- [x] lions rock quest 
 - [ ] ferumbras ascendant quest
 - [ ] grimvale quest
 - [ ] new pits of inferno - CUSTOM
