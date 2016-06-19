@@ -24,6 +24,7 @@
 - [ ] helmet of the ancients
 - [ ] hidden city of beregar
 - [ ] elemental spheres
+- [ ] their master voice (mad mage)
 
 # Bugs to fix (portuguese)
 - [ ] entrada dos war golems yalahar (machines)
@@ -80,7 +81,7 @@
 
 # Em andamento de correção
 
-- [ ] fazer npcs de krailos (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
+----
 
 # Corrigidos
 
@@ -100,3 +101,4 @@
 - [x] respawns das caves de queenswood
 - [x] respawns da ilha perto de carlin - CUSTOM
 - [x] atualizar o global depot (tirar os townid do mapa)
+- [x] fazer npcs de krailos (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
