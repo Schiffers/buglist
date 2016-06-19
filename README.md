@@ -25,6 +25,7 @@
 - [ ] hidden city of beregar
 - [ ] elemental spheres
 - [ ] their master voice (mad mage)
+- [ ] the mage's tower
 
 # Bugs to fix (portuguese)
 - [ ] entrada dos war golems yalahar (machines)
@@ -71,7 +72,6 @@
 - [ ] arrumar o decay time do corpo do Obujos
 - [ ] corrigir a vida do gaz'haragoth
 - [ ] arrumar escadas da cave de terrorsleep em roshamuul
-- [ ] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
 - [ ] fazer evento da chayenne
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
@@ -102,3 +102,4 @@
 - [x] respawns da ilha perto de carlin - CUSTOM
 - [x] atualizar o global depot (tirar os townid do mapa)
 - [x] npcs 10.80 adicionados
+- [x] arrumar o nome do item "magic wand" mudar para "spellwand" (ver no wiki a descrição)
