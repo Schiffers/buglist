@@ -54,7 +54,6 @@
 - [ ] arrumar action de entrada pro dp de krailos
 - [ ] arrumar entrada da cave underwater em krailos
 - [ ] arrumar museu de thais (alguns items faltando configuração)
-- [ ] fazer um vendedor de arrows e bolts e colocar perto do castelo de thais
 - [ ] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
 - [ ] fazer monstros do 10.80, 10.90 e 10.94 (os que faltam)
@@ -104,3 +103,4 @@
 - [x] colocar os novos potions nas lojas
 - [x] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (falta a quest), Jeremy e Russeou
 - [x] corrigir outfits (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
+- [x] fazer um vendedor de arrows e bolts e colocar perto do castelo de thais [Jeremy]
