@@ -74,7 +74,7 @@
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
 - [ ] arrumar a saída da ferumbras quest (sala de recompensas)
-- [ ] colocar npc Tarun no RME, e no mapa
+- [ ] arrumar trono da pits of inferno (dos sons of verminor e defilers)
 
 # Em andamento de correção
 
@@ -109,3 +109,4 @@
 - [x] corrigir a vida do gaz'haragoth
 - [x] arrumar npcs pra ir pra robson's isle
 - [x] colocar nome no nightmare teddy id 24351
+- [x] colocar npc Tarun no RME, e no mapa
