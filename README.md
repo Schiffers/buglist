@@ -74,6 +74,7 @@
 - [ ] colocar detalhes na cave de goldhaven
 - [ ] arrumar a saída da ferumbras quest (sala de recompensas)
 - [ ] arrumar trono da pits of inferno (dos sons of verminor e defilers)
+- [ ] arrumar action para os some cracks em Asura Palace teleportarem o player para baixo, e também em roshamuul na cave custom.
 
 # Em andamento de correção
 
