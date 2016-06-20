@@ -26,6 +26,9 @@
 - [ ] elemental spheres
 - [ ] their master voice (mad mage)
 - [ ] the mage's tower
+- [ ] the gravedigger of drefia
+- [ ] inquisiton
+- [ ] pits of inferno
 
 # Bugs to fix (portuguese)
 - [ ] entrada dos war golems yalahar (machines)
