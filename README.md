@@ -71,6 +71,7 @@
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
+- [ ] arrumar a saída da ferumbras quest (sala de recompensas)
 
 # Em andamento de correção
 
