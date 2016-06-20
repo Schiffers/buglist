@@ -45,7 +45,6 @@
 - [ ] fazer actions pras arvores que brilham (o tal nothing happens)
 - [ ] fazer action pra ir pros sonhos do morax de roshamuul
 - [ ] fazer o action do silencer plateau
-- [ ] arrumar modo de pegar o leech (montaria do buffalo)
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
 - [ ] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
@@ -110,3 +109,4 @@
 - [x] arrumar npcs pra ir pra robson's isle
 - [x] colocar nome no nightmare teddy id 24351
 - [x] colocar npc Tarun no RME, e no mapa
+- [x] arrumar modo de pegar o leech (montaria do buffalo)
