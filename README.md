@@ -36,7 +36,7 @@
 - [ ] colocar no global.lua id das portas do 10.90
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
-- [x] remover necessidade da banuta quest para ir em forbbiden lands
+- [ ] remover necessidade da banuta quest para ir em forbbiden lands
 - [ ] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
 - [ ] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
 - [ ] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
@@ -72,6 +72,7 @@
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
 - [ ] arrumar a saída da ferumbras quest (sala de recompensas)
+- [ ] colocar npc Tarun no RME, e no mapa
 
 # Em andamento de correção
 
