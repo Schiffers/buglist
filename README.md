@@ -31,13 +31,12 @@
 - [ ] entrada dos war golems yalahar (machines)
 - [ ] tirar action da escadinha de madeira id 19510
 - [ ] colocar nome no buraco id 23713 // downstair
-- [ ] colocar nomes dos items 10.80/90/94 items de quest
+- [ ] colocar nomes dos items 10.90/94 items de quest
 - [ ] fazer movements pros "foguinhos" de grimvale, verde = cura, azul = speed
 - [ ] colocar no global.lua id das portas do 10.90
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
-- [ ] colocar nome no nightmare teddy id 24351
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
-- [ ] remover necessidade da banuta quest para ir em forbbiden lands
+- [x] remover necessidade da banuta quest para ir em forbbiden lands
 - [ ] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
 - [ ] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
 - [ ] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
@@ -46,7 +45,6 @@
 - [ ] fazer o action do silencer plateau
 - [ ] arrumar modo de pegar o leech (montaria do buffalo)
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
-- [ ] arrumar npcs pra ir pra robson's isle
 - [ ] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
 - [ ] arrumar porta id 12701
@@ -66,7 +64,6 @@
 - [ ] criar area de treiners
 - [ ] equip hotkey 
 - [ ] arrumar o decay time do corpo do Obujos
-- [ ] corrigir a vida do gaz'haragoth
 - [ ] arrumar escadas da cave de terrorsleep em roshamuul
 - [ ] fazer evento da chayenne
 - [ ] remover necessidade de quest para negociar com rashid
@@ -74,7 +71,6 @@
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
-- [ ] renomear npc cornell em grimvale para CornellGV[xml] e arrumar NPC Junkar
 
 # Em andamento de correção
 
@@ -104,3 +100,7 @@
 - [x] arrumar npcs que estão faltando no mapa: Owin, Gladys, Rottin Wood (falta a quest), Jeremy e Russeou
 - [x] corrigir outfits (Grubokk, Nibble, Ghorza, Vuzrog, Larek, Mugruu, Kaya)
 - [x] fazer um vendedor de arrows e bolts e colocar perto do castelo de thais [Jeremy]
+- [x] renomear npc cornell em grimvale para CornellGV[xml] e arrumar NPC Junkar
+- [x] corrigir a vida do gaz'haragoth
+- [x] arrumar npcs pra ir pra robson's isle
+- [x] colocar nome no nightmare teddy id 24351
