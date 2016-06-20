@@ -9,7 +9,6 @@
 - [ ] mysterious ornate chest
 - [ ] quest dos seals fodões em venore (perto dos grim reapers) -- CUSTOM
 - [x] lions rock quest 
-- [ ] ferumbras ascendant quest
 - [ ] grimvale quest
 - [ ] new pits of inferno - CUSTOM
 - [ ] deep catacombs - CUSTOM
@@ -80,6 +79,7 @@
 # Em andamento de correção
 
 - [ ] atualizar shop ingame (market, transfer coins, history limit) [LIMIT FUNCIONANDO]
+- [ ] ferumbras ascendant quest
 
 # Corrigidos
 
