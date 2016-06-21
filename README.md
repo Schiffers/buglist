@@ -75,6 +75,7 @@
 - [ ] arrumar a saída da ferumbras quest (sala de recompensas)
 - [ ] arrumar trono da pits of inferno (dos sons of verminor e defilers)
 - [ ] arrumar action para os some cracks em Asura Palace teleportarem o player para baixo, e também em roshamuul na cave custom.
+- [ ] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 
 # Em andamento de correção
 
@@ -111,3 +112,4 @@
 - [x] colocar nome no nightmare teddy id 24351
 - [x] colocar npc Tarun no RME, e no mapa
 - [x] arrumar modo de pegar o leech (montaria do buffalo)
+- [x] trackear sala do boss dos mutated bats
