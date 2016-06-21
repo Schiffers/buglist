@@ -70,7 +70,7 @@
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
-- [ ] arrumar a posição do unrealized dream (mudar para perto do eruaran)
+- [x] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
 - [ ] arrumar a saída da ferumbras quest (sala de recompensas)
 - [ ] arrumar trono da pits of inferno (dos sons of verminor e defilers)
