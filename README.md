@@ -84,7 +84,8 @@
 - [ ] arrumar movement de entrada a cave de quaras Position(32366, 31371, 6)
 - [ ] fazer boss da task de carrion worms e adicionar nos scripts das tasks
 - [ ] fazer npcs do 10.94 (Fadil...)
-- [ ] atualizar lista do npc yasir com os items 10.80+
+- [x] atualizar lista do npc yasir com os items 10.80
+- [ ] atualizar lista do npc yasir com os items 10.94
 
 
 # Em andamento de correção
