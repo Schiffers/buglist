@@ -123,3 +123,6 @@
 - [x] colocar npc Tarun no RME, e no mapa
 - [x] arrumar modo de pegar o leech (montaria do buffalo)
 - [x] trackear sala do boss dos mutated bats
+
+# messages of quests
+- [x] With the Rage, Hunger and Destrunction gone, you´re sucked into the heart of destruction!! THE WORLD DEVOURER AWAITS YOU! (quando o the rage morre)
