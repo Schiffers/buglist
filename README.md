@@ -77,6 +77,7 @@
 - [ ] arrumar action para os some cracks em Asura Palace teleportarem o player para baixo, e também em roshamuul na cave custom.
 - [ ] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
+- [ ] trocar o ID (5706) do mapa requerido para entrar na cave em treasure island, trocar 5091
 
 # Em andamento de correção
 
