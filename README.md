@@ -79,6 +79,10 @@
 - [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
 - [ ] trocar o ID (5706) do mapa requerido para entrar na cave em treasure island, trocar 5091
 - [ ] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
+- [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
+- [ ] colocar destinação num teleporte m poh Position(32790, 32269, 8)
+
+
 # Em andamento de correção
 
 - [ ] atualizar shop ingame (market, transfer coins, history limit) [LIMIT FUNCIONANDO]
