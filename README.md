@@ -56,7 +56,7 @@
 - [ ] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
 - [ ] fazer monstros do 10.80, 10.90 e 10.94 (os que faltam)
-- [ ] colocar nomes nos items novos do store
+- [x] colocar nomes nos items novos do store
 - [ ] fazer actions dos items novos do store
 - [ ] trackear mapas da bibby bloodbath
 - [ ] rework de alguns lugares do mapa que estão muito feios
@@ -74,13 +74,16 @@
 - [ ] colocar detalhes na cave de goldhaven
 - [x] arrumar a saída da ferumbras quest (sala de recompensas)
 - [x] arrumar trono da pits of inferno (dos sons of verminor e defilers)
-- [ ] arrumar action para os some cracks em Asura Palace teleportarem o player para baixo, e também em roshamuul na cave custom.
+- [x] arrumar action para os some cracks em Asura Palace teleportarem o player para baixo, e também em roshamuul na cave custom.
 - [ ] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
-- [ ] trocar o ID (5706) do mapa requerido para entrar na cave em treasure island, trocar 5091
+- [x] trocar o ID (5706) do mapa requerido para entrar na cave em treasure island, trocar 5091
 - [ ] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
 - [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
 - [ ] colocar destinação num teleporte m poh Position(32790, 32269, 8)
+- [ ] arrumar movement de entrada a cave de quaras Position(32366, 31371, 6)
+- [ ] fazer boss da task de carrion worms e adicionar nos scripts das tasks
+- [ ] fazer npcs do 10.94 (Fadil...)
 
 
 # Em andamento de correção
