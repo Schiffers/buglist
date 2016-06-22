@@ -65,15 +65,15 @@
 - [ ] criar area de treiners
 - [ ] equip hotkey 
 - [ ] arrumar o decay time do corpo do Obujos
-- [ ] arrumar escadas da cave de terrorsleep em roshamuul
+- [x] arrumar escadas da cave de terrorsleep em roshamuul
 - [ ] fazer evento da chayenne
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [x] arrumar a posição do unrealized dream (mudar para perto do eruaran)
 - [ ] colocar detalhes na cave de goldhaven
-- [ ] arrumar a saída da ferumbras quest (sala de recompensas)
-- [ ] arrumar trono da pits of inferno (dos sons of verminor e defilers)
+- [x] arrumar a saída da ferumbras quest (sala de recompensas)
+- [x] arrumar trono da pits of inferno (dos sons of verminor e defilers)
 - [ ] arrumar action para os some cracks em Asura Palace teleportarem o player para baixo, e também em roshamuul na cave custom.
 - [ ] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
