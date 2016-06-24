@@ -1,5 +1,6 @@
 # MONSTERS PARA FAZER
-  #update 10.80
+
+#update 10.80
 - [ ] Dawnfire Asura (loot, exp)
 - [ ] Elder Forest Fury (vida, loot, exp)
 - [ ] Ghost Wolf (vida, loot, exp)
