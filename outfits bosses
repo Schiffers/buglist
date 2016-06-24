@@ -10,3 +10,11 @@ The destruction - <look type="876" head="78" body="98" legs="96" feet="38"
 The hunger - <look type="876" head="77" body="79" legs="47" feet="94"
 The rage - <look type="876" head="85" body="114" legs="22" feet="0"
 world devourer - <look type="875" head="82" body="98" legs="100" feet="94"
+
+#Custom Bosses
+coiso 1 - <look type="862" head="3" body="101" legs="25" feet="42"
+coiso 2 - <look type="862" head="66" body="67" legs="55" feet="48"
+coiso 3 - <look type="862" head="66" body="67" legs="55" feet="48"
+coiso 4 - <look type="842" head="41" body="29" legs="79" feet="96"
+coiso 5 - <look type="862" head="103" body="122" legs="42" feet="132"
+
