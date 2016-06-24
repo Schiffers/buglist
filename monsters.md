@@ -11,8 +11,8 @@
 - [ ] Werebadger (vida, loot, exp)
 - [ ] Werebear (vida, loot, exp)
 - [ ] Wereboar (vida, loot, exp)
-
-  #update 10.94
+  
+#update 10.94
 - [ ] Breach Brood (vida, loot, exp)
 - [ ] Dread Intruder (vida, exp, loot)
 - [ ] Buster (setar 4k de vida, e 2.5k de exp, loot)
