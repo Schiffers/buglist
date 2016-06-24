@@ -19,7 +19,7 @@
 - [ ] Crackler (setar 1.4k de vida, 700 de exp, sem loot)
 - [ ] Damage Resonance (5k de vida, sem loot, 0 de exp)
 - [ ] Dread Intruder (vida, loot, exp)
-- [ ] Depolarized Crackler (50k de vida, loot, exp)
+- [ ] Depolarized Crackler (50k de vida, sem loot, 30k de exp)
 - [ ] Instable Breach Brood (setar 2.5k de vida, 1.6k de exp, loot igual do Breach Brood)
 - [ ] Instable Sparkion (2.1k de vida, 1.4k de exp, loot igual do Sparkion)
 - [ ] Reality Reaver (vida, loot, exp)
