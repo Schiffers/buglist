@@ -30,20 +30,20 @@
 - [ ] pits of inferno
 
 # Bugs to fix (portuguese)
-- [ ] entrada dos war golems yalahar (machines)
-- [ ] tirar action da escadinha de madeira id 19510
-- [ ] colocar nome no buraco id 23713 // downstair
+- [x] entrada dos war golems yalahar (machines)
+- [x] tirar action da escadinha de madeira id 19510
+- [x] colocar nome no buraco id 23713 // downstair
 - [ ] colocar nomes dos items 10.90/94 items de quest
-- [ ] fazer movements pros "foguinhos" de grimvale, verde = cura, azul = speed
-- [ ] colocar no global.lua id das portas do 10.90
+- [x] fazer movements pros "foguinhos" de grimvale, verde = cura, azul = speed
+- [x] colocar no global.lua id das portas do 10.90
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
-- [ ] remover necessidade da banuta quest para ir em forbbiden lands
+- [x] remover necessidade da banuta quest para ir em forbbiden lands
 - [ ] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
 - [ ] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
 - [ ] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
 - [ ] fazer actions pras arvores que brilham (o tal nothing happens)
-- [ ] fazer action pra ir pros sonhos do morax de roshamuul
+- [x] fazer action pra ir pros sonhos do morax de roshamuul
 - [ ] fazer o action do silencer plateau
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
 - [ ] arrumar respawn da mama long legs
@@ -87,6 +87,7 @@
 - [x] atualizar lista do npc yasir com os items 10.80
 - [ ] atualizar lista do npc yasir com os items 10.94
 - [ ] verificar raids (umas estão muito fáceis)
+- [ ] arrumar looktypes dos npcs de roshamuul (quase todos estão bugadas)
 
 
 # Em andamento de correção
