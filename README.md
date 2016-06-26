@@ -86,6 +86,7 @@
 - [ ] fazer npcs do 10.94 (Fadil...)
 - [x] atualizar lista do npc yasir com os items 10.80
 - [ ] atualizar lista do npc yasir com os items 10.94
+- [ ] verificar raids (umas estão muito fáceis)
 
 
 # Em andamento de correção
