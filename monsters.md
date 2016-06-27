@@ -1,16 +1,16 @@
 # MONSTERS PARA FAZER
 
 #update 10.80
-- [ ] Dawnfire Asura (loot, exp)
-- [ ] Elder Forest Fury (vida, loot, exp)
-- [ ] Ghost Wolf (vida, loot, exp)
-- [ ] Gloom Wolf (vida, loot, exp)
-- [ ] Midnight Asura (loot, exp)
-- [ ] Omnivora (vida, loot, exp)
-- [ ] Redeemed Soul (vida, loot, exp)
-- [ ] Tainted Soul (vida, loot, exp)
-- [ ] Werebadger (vida, loot, exp)
-- [ ] Werebear (vida, loot, exp)
+- [x] Dawnfire Asura (loot, exp)
+- [x] Elder Forest Fury (vida, loot, exp)
+- [x] Ghost Wolf (vida, loot, exp)
+- [x] Gloom Wolf (vida, loot, exp)
+- [x] Midnight Asura (loot, exp)
+- [x] Omnivora (vida, loot, exp)
+- [x] Redeemed Soul (vida, loot, exp)
+- [x] Tainted Soul (vida, loot, exp)
+- [x] Werebadger (vida, loot, exp)
+- [x] Werebear (vida, loot, exp)
 - [ ] Wereboar (vida, loot, exp)
   
 #update 10.94
