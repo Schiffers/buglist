@@ -87,7 +87,7 @@
 - [x] atualizar lista do npc yasir com os items 10.80
 - [ ] atualizar lista do npc yasir com os items 10.94
 - [ ] verificar raids (umas estão muito fáceis)
-- [ ] arrumar looktypes dos npcs de roshamuul (quase todos estão bugadas)
+- [x] arrumar looktypes dos npcs de roshamuul (quase todos estão bugadas)
 
 
 # Em andamento de correção
