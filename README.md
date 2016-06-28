@@ -88,6 +88,7 @@
 - [ ] atualizar lista do npc yasir com os items 10.94
 - [ ] verificar raids (umas estão muito fáceis)
 - [x] arrumar looktypes dos npcs de roshamuul (quase todos estão bugadas)
+- [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
 
 
 # Em andamento de correção
