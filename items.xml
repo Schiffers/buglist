@@ -719,3 +719,122 @@
 		<attribute key="weight" value="1800" />
 		<attribute key="containerSize" value="20" />
 	</item>
+	<item id="26512" article="a" name="dead buster">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26513" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26513" article="a" name="dead buster">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26514" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26514" article="a" name="dead buster">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26515" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26515" article="a" name="dead buster">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26516" article="a" name="dead spark of destruction">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26517" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26517" article="a" name="dead spark of destruction">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26518" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26518" article="a" name="dead spark of destruction">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26519" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26519" article="a" name="dead spark of destruction">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26520" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26521" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26521" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26522" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26522" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26523" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26524" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26524" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26525" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26525" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26526" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26527" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26527" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26528" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26528" article="an" name="energetic remains">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
