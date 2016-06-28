@@ -414,3 +414,308 @@
 	<item id="26110" article="a" name="yalaharian tapestry"/>
 	<item id="26111" article="a" name="white fur tapestry"/>
 	<item id="26113" article="a" name="bamboo mat"/>
+	
+	<!-- a partir daqui 10.94 -->
+		<item fromid="26130" toid="26137" name="rift floor"/>
+	<item fromid="26138" toid="26140" name="holes in the floor"/>
+	<item fromid="26131" toid="26152" name="rift floor"/>
+	<item fromid="26153" toid="26154" name="crackling energy"/>
+	<item fromid="26155" toid="26168" name="overgrown rift floor"/>
+	<item fromid="26169" toid="26171" name="rift floor"/>
+	<item fromid="26172" toid="26176" name="viscous dirt"/>
+	<item fromid="26179" toid="26188" name="rift wall"/>
+	<item fromid="26189" toid="26197" name="glowing vortex"/>
+	<item fromid="26198" toid="26206" name="rift pinnacle"/>
+	<item fromid="26207" toid="26212" name="rift archwall"/>
+	<item id="26213" name="viscous dirt"/>
+	<item fromid="26214" toid="26215" name="rift jag"/>
+	<item fromid="26216" toid="26218" name="strange growth"/>
+	<item fromid="26219" toid="26221" name="strange dirt"/>
+	<item fromid="26222" toid="26243" name="strange growth"/>
+	<item id="26373" name="crater"/>
+	<item fromid="26379" toid="26381" name="crater"/>
+	<item fromid="26382" toid="26385" name="rift wall"/>
+	<item id="26389" name="rift floor"/>
+	<item id="26390" name="rift floor">
+		<attribute key="floorchange" value="down" />
+	</item>
+	<item id="26391" name="fire trap"/>
+	<item id="26392" name="energy trap"/>
+	<item id="26393" name="gas trap"/>
+	<item id="26394" name="poison trap"/>
+	<item id="26395" name="blade trap"/>
+	<item id="26396" name="spike trap"/>
+	<item id="26397" name="blade trap"/>
+	<item id="26398" name="spike trap"/>
+	<item fromid="26399" toid="26410" name="rift jag"/>
+	<item id="26411" article="a" name="remains of sparkion">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26412" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26412" article="a" name="dead sparkion">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26413" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26413" article="a" name="dead sparkion">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26414" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26414" article="a" name="dead sparkion">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26415" article="a" name="dead breach brood">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26416" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26416" article="a" name="dead breach brood">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26417" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26417" article="a" name="dead breach brood">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26418" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26418" article="a" name="dead breach brood">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26419" article="a" name="dead reality reaver">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26420" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26420" article="a" name="dead reality reaver">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26421" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26421" article="a" name="dead reality reaver">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26422" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26422" article="a" name="dead reality reaver">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26437" article="a" name="dead dread intruder">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26438" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26438" article="a" name="dead dread intruder">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26439" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26439" article="a" name="dead dread intruder">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="26440" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item id="26440" article="a" name="dead dread intruder">
+		<attribute key="containerSize" value="16" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="duration" value="300" />
+		<attribute key="corpseType" value="blood" />
+		<attribute key="fluidSource" value="blood" />
+	</item>
+	<item fromid="26429" toid="26431" name="vortex"/>
+	<item fromid="26441" toid="26443" name="vortex"/>
+	<item id="26429" name="viscous dirt"/>
+	<item id="26433" name="tiara of power">
+		<attribute key="weight" value="1150" />
+		<attribute key="slotType" value="head" />
+		<attribute key="transformEquipTo" value="26434" />
+		<attribute key="stopduration" value="1" />
+		<attribute key="showduration" value="1" />
+		<attribute key="armor" value="7" />
+		<attribute key="speed" value="40" />
+		<attribute key="absorbPercentEnergy" value="8" />
+	</item>
+	<item id="26434" article="a" name="tiara of power (faster regeneration)">
+		<attribute key="weight" value="1150" />
+		<attribute key="slotType" value="head" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="transformDeEquipTo" value="26433" />
+		<attribute key="duration" value="3600" />
+		<attribute key="healthGain" value="50" />
+		<attribute key="healthTicks" value="2000" />
+		<attribute key="manaGain" value="100" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="showduration" value="1" />
+		<attribute key="showattributes" value="1" />
+		<attribute key="armor" value="7" />
+		<attribute key="speed" value="40" />
+		<attribute key="absorbPercentEnergy" value="8" />
+	</item>
+	<item id="26436" name="void boots">
+		<attribute key="weight" value="1500" />
+		<attribute key="slotType" value="feet" />
+		<attribute key="transformEquipTo" value="26435" />
+		<attribute key="stopduration" value="1" />
+		<attribute key="showduration" value="1" />
+		<attribute key="armor" value="2" />
+		<attribute key="speed" value="60" />
+		<attribute key="absorbPercentEnergy" value="10" />
+	</item>
+	<item id="26435" article="a" name="void boots (faster regeneration)">
+		<attribute key="weight" value="1500" />
+		<attribute key="slotType" value="feet" />
+		<attribute key="decayTo" value="0" />
+		<attribute key="transformDeEquipTo" value="26436" />
+		<attribute key="duration" value="3600" />
+		<attribute key="healthGain" value="50" />
+		<attribute key="healthTicks" value="2000" />
+		<attribute key="manaGain" value="100" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="showduration" value="1" />
+		<attribute key="showattributes" value="1" />
+		<attribute key="armor" value="2" />
+		<attribute key="speed" value="60" />
+		<attribute key="absorbPercentEnergy" value="10" />
+	</item>
+	<item fromid="26444" toid="26445" article="an" name="explosive barrel">
+	<item id="26446" article="an" name="arena badge">
+		<attribute key="weight" value="100" />
+	</item>
+	<item id="26447" article="a" name="surprise cube">
+		<attribute key="weight" value="8500" />
+		<attribute key="description" value="There might be something valuable inside." />
+	</item>
+	<item id="26448" article="a" name="brown pit demon">
+		<attribute key="weight" value="500" />
+		<attribute key="description" value="Figurine 1 of 5." />
+	</item>
+	<item id="26449" article="a" name="green pit demon">
+		<attribute key="weight" value="500" />
+		<attribute key="description" value="Figurine 2 of 5." />
+	</item>
+	<item id="26450" article="a" name="blue pit demon">
+		<attribute key="weight" value="500" />
+		<attribute key="description" value="Figurine 3 of 5." />
+	</item>
+	<item id="26451" article="a" name="black pit demon">
+		<attribute key="weight" value="500" />
+		<attribute key="description" value="Figurine 4 of 5." />
+	</item>
+	<item id="26452" article="a" name="red pit demon">
+		<attribute key="weight" value="500" />
+		<attribute key="description" value="Figurine 5 of 5." />
+	</item>
+	<item id="26460" article="a" name="condensed energy">
+		<attribute key="weight" value="200" />
+	</item>
+	<item id="26461" article="a" name="sparkion claw">
+		<attribute key="weight" value="800" />
+	</item>
+	<item id="26462" article="a" name="sparkion tail">
+		<attribute key="weight" value="750" />
+	</item>
+	<item id="26463" article="a" name="sparkion legs">
+		<attribute key="weight" value="750" />
+	</item>
+	<item id="26464" article="a" name="sparkion stings">
+		<attribute key="weight" value="350" />
+	</item>
+	<item id="26465" article="a" name="plasma pearls">
+		<attribute key="weight" value="350" />
+	</item>
+	<item id="26466" article="a" name="crystallized anger">
+		<attribute key="weight" value="1200" />
+	</item>
+	<item id="26467" article="an" name="energy vein">
+		<attribute key="weight" value="200" />
+	</item>
+	<item id="26468" article="a" name="mysterious remains">
+		<attribute key="weight" value="12000" />
+	</item>
+	<item id="26469" article="an" name="odd organ">
+		<attribute key="weight" value="450" />
+	</item>
+	<item id="26470" article="a" name="curious matter">
+		<attribute key="weight" value="450" />
+	</item>
+	<item id="26471" article="a" name="spying eye">
+		<attribute key="weight" value="400" />
+	</item>
+	<item id="26472" article="a" name="strange proto matter">
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="26473" article="a" name="volatile proto matter">
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="26474" article="a" name="dangerous proto matter">
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="26475" article="an" name="instable proto matter">
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="26476" article="a" name="solid rage">
+		<attribute key="weight" value="300" />
+	</item>
+	<item id="26477" article="a" name="spark sphere">
+		<attribute key="weight" value="500" />
+	</item>
+	<item id="26478" article="a" name="frozen lightning">
+		<attribute key="weight" value="700" />
+	</item>
+	<item id="26479" article="a" name="plasmatic lightning">
+		<attribute key="weight" value="700" />
+	</item>
+	<item id="26480" article="a" name="crystal bone">
+		<attribute key="weight" value="1200" />
+	</item>
+	<item id="26481" article="a" name="glistening bone">
+		<attribute key="weight" value="1200" />
+	</item>
+	<item id="26482" article="an" name="energy ball">
+		<attribute key="weight" value="350" />
+	</item>
+	<item id="26483" article="a" name="small energy ball">
+		<attribute key="weight" value="150" />
+	</item>
+	<item id="26484" article="a" name="energetic backpack">
+		<attribute key="weight" value="1800" />
+		<attribute key="containerSize" value="20" />
+	</item>
