@@ -448,7 +448,7 @@
 	<item id="26397" name="blade trap"/>
 	<item id="26398" name="spike trap"/>
 	<item fromid="26399" toid="26410" name="rift jag"/>
-	<item id="26411" article="a" name="remains of sparkion">
+	<item id="26411" article="a" name="dead sparkion">
 		<attribute key="containerSize" value="16" />
 		<attribute key="decayTo" value="26412" />
 		<attribute key="duration" value="10" />
