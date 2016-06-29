@@ -11,7 +11,7 @@
 - [x] Tainted Soul (vida, loot, exp)
 - [x] Werebadger (vida, loot, exp)
 - [x] Werebear (vida, loot, exp)
-- [ ] Wereboar (vida, loot, exp)
+- [x] Wereboar (vida, loot, exp)
   
 #update 10.94
 - [ ] Breach Brood (vida, loot, exp)
