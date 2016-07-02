@@ -91,6 +91,7 @@
 - [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
 - [ ] fazer action pra lever da quest em cima da DH quest
 - [ ] fazer os npcs vender os novos potions
+- [ ] arrumar entrada pra ilha do fernfang
 
 
 # Em andamento de correção
