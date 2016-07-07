@@ -92,6 +92,9 @@
 - [ ] fazer action pra lever da quest em cima da DH quest
 - [ ] fazer os npcs vender os novos potions
 - [ ] arrumar entrada pra ilha do fernfang
+- [ ] verificar a invasão dos wild horses
+- [ ] colocar rewspawn na cave undead em darashia >>>>>
+- 
 
 
 # Em andamento de correção
