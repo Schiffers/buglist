@@ -56,6 +56,9 @@
 - [ ] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
 - [ ] fazer monstros do 10.80, 10.90 e 10.94 (os que faltam)
+-       [x] 10.80
+-       [ ] 10.90
+-       [ ] 10.94
 - [x] colocar nomes nos items novos do store
 - [ ] fazer actions dos items novos do store
 - [ ] trackear mapas da bibby bloodbath
