@@ -55,10 +55,7 @@
 - [ ] arrumar museu de thais (alguns items faltando configuração)
 - [ ] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
-- [ ] fazer monstros do 10.80, 10.90 e 10.94 (os que faltam)
--       [x] 10.80
--       [ ] 10.90
--       [ ] 10.94
+- [ ] fazer monstros do [x] 10.80,[ ] 10.90 e [ ] 10.94 (os que faltam)
 - [x] colocar nomes nos items novos do store
 - [ ] fazer actions dos items novos do store
 - [ ] trackear mapas da bibby bloodbath
@@ -88,7 +85,7 @@
 - [ ] fazer boss da task de carrion worms e adicionar nos scripts das tasks
 - [ ] fazer npcs do 10.94 (Fadil...)
 - [x] atualizar lista do npc yasir com os items 10.80
-- [ ] atualizar lista do npc yasir com os items 10.94
+- [x] atualizar lista do npc yasir com os items 10.94
 - [ ] verificar raids (umas estão muito fáceis)
 - [x] arrumar looktypes dos npcs de roshamuul (quase todos estão bugadas)
 - [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
@@ -98,11 +95,8 @@
 - [ ] verificar a invasão dos wild horses
 - [ ] colocar rewspawn na cave undead em darashia >>>>>
 - 
-
-
 # Em andamento de correção
 
-- [ ] atualizar shop ingame (market, transfer coins, history limit) [LIMIT FUNCIONANDO]
 - [ ] ferumbras ascendant quest
 
 # Corrigidos
@@ -136,6 +130,7 @@
 - [x] colocar npc Tarun no RME, e no mapa
 - [x] arrumar modo de pegar o leech (montaria do buffalo)
 - [x] trackear sala do boss dos mutated bats
+- [x] atualizar shop ingame (market, transfer coins, history)
 
 # messages of quests
 - [x] With the Rage, Hunger and Destrunction gone, you´re sucked into the heart of destruction!! THE WORLD DEVOURER AWAITS YOU! (quando o the rage morre)
