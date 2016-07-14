@@ -64,7 +64,7 @@
 - [ ] fazer world change sight of surrender valley
 - [x] criar area de treiners
 - [ ] equip hotkey 
-- [ ] arrumar o decay time do corpo do Obujos
+- [x] arrumar o decay time do corpo do Obujos
 - [x] arrumar escadas da cave de terrorsleep em roshamuul
 - [ ] fazer evento da chayenne
 - [ ] remover necessidade de quest para negociar com rashid
