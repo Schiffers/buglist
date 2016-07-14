@@ -23,7 +23,7 @@
 - [ ] helmet of the ancients
 - [ ] hidden city of beregar
 - [ ] elemental spheres
-- [ ] their master voice (mad mage)
+- [x] their master voice (mad mage) - DONE! FIXED!
 - [ ] the mage's tower
 - [ ] the gravedigger of drefia
 - [ ] inquisiton
