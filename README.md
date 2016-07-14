@@ -55,14 +55,14 @@
 - [ ] arrumar museu de thais (alguns items faltando configuração)
 - [ ] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
-- [ ] fazer monstros do [x] 10.80,[ ] 10.90 e [ ] 10.94 (os que faltam)
+- [ ] fazer monstros do [x] 10.80,[x] 10.90 e [x] 10.94 (os que faltam)
 - [x] colocar nomes nos items novos do store
 - [ ] fazer actions dos items novos do store
 - [ ] trackear mapas da bibby bloodbath
 - [ ] rework de alguns lugares do mapa que estão muito feios
 - [ ] trackear hunt de quaras em liberty bay
 - [ ] fazer world change sight of surrender valley
-- [ ] criar area de treiners
+- [x] criar area de treiners
 - [ ] equip hotkey 
 - [ ] arrumar o decay time do corpo do Obujos
 - [x] arrumar escadas da cave de terrorsleep em roshamuul
@@ -86,7 +86,7 @@
 - [ ] fazer npcs do 10.94 (Fadil...)
 - [x] atualizar lista do npc yasir com os items 10.80
 - [x] atualizar lista do npc yasir com os items 10.94
-- [ ] verificar raids (umas estão muito fáceis)
+- [x] verificar raids (umas estão muito fáceis)
 - [x] arrumar looktypes dos npcs de roshamuul (quase todos estão bugadas)
 - [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
 - [ ] fazer action pra lever da quest em cima da DH quest
