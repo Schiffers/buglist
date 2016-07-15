@@ -24,7 +24,7 @@
 - [ ] hidden city of beregar
 - [ ] elemental spheres
 - [x] their master voice (mad mage) - DONE! FIXED!
-- [ ] the mage's tower
+- [x] the mage's tower - DONE! FIXED!
 - [ ] the gravedigger of drefia
 - [ ] inquisiton
 - [ ] pits of inferno
