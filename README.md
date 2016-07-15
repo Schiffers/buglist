@@ -134,3 +134,6 @@
 
 # messages of quests
 - [x] With the Rage, Hunger and Destrunction gone, you´re sucked into the heart of destruction!! THE WORLD DEVOURER AWAITS YOU! (quando o the rage morre)
+
+# lugares para trackear
+- [ ] entrada da mini world change dos water's elementals em POH
