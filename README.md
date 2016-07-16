@@ -30,11 +30,11 @@
 - [ ] colocar nomes dos items 10.90/94 items de quest
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
-- [ ] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
-- [ ] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
+- [x] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
+- [x] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
 - [ ] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
-- [ ] fazer actions pras arvores que brilham (o tal nothing happens)
-- [ ] fazer o action do silencer plateau
+- [x] fazer actions pras arvores que brilham (o tal nothing happens)
+- [x] fazer o action do silencer plateau
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
 - [ ] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
@@ -57,7 +57,7 @@
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [ ] colocar detalhes na cave de goldhaven
-- [ ] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
+- [x] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
 - [ ] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
 - [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
@@ -68,9 +68,9 @@
 - [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
 - [ ] fazer action pra lever da quest em cima da DH quest
 - [ ] fazer os npcs vender os novos potions
-- [ ] arrumar entrada pra ilha do fernfang
+- [x] arrumar entrada pra ilha do fernfang
 - [ ] verificar a invasão dos wild horses
-- [ ] colocar rewspawn na cave undead em darashia >>>>>
+- [x] colocar rewspawn na cave undead em darashia >>>>>
 
 # Em andamento de correção
 
