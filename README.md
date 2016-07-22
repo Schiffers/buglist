@@ -286,3 +286,9 @@ Quill Spray
 Charged Shot
 Burst Shot
 Execution
+
+
+# ideias para bosses
+- [ ] boss dos demons (askarak, shaburak) ficam sumonando monstros mais fracos como se fossem partes dele, quando esses monstros ficam todos um do lado do outro eles soltam uma wave de fogo que pode dar hs em qualquer um, objetivo: não deixar eles ficarem pertos um dos outros para não soltarem a wave e matar o boss somente com ataque a distancia, se for ataques de perto ele vai se curar bastante
+- [ ] boss dos minotauros, caso algum player fique de frente com ele, ele irá empurrar o player até a parede mais próxima dando dano mortal, troca de alvo fácil, e dança bastante por isso tem que cuidar bastante pra matar ele, bastante vida e força
+- [ ] boss das aranhas assim como the welter, fica sumonando ovinhos, com o tempo esses ovinhos viram aranhas mais fracas que o boss mais muito fortes, quando o boss tiver 5 aranhas perto, irá causar dano mortal jutando todas elas e dando uma wave de poison
