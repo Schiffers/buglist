@@ -146,3 +146,143 @@
 - [ ] cavezinha em edron (eu explico onde fica complicado falar sem ir lá)
 - [ ] retrackear a cave de quaras em PH (oriento onde fica)
 - [ ] arenas PVE edron, ankrahmun, oramond
+
+# ideias para magias
+Sparks
+Recharge
+--
+Light
+Create Fire
+Fire Strike
+Fireball
+Explosion
+Fire Wave
+Blazing Pillar
+Scourched Ground
+Summon Blazing Spirit
+Summon Salamander
+--
+Wind Vortex
+Wind Blade
+Tornado
+Storm
+Thunderbolt
+Lightning Nova
+Summon Sparker
+Summon Stormcaller
+--
+Water Vortex
+Water Wall
+Water Wave
+Crystal Lance
+Iceberg
+Blizzard
+Summon Waveform
+Summon Tidal Wave
+--
+Shoot Stone
+Poisonous Spike
+Entangle
+Plagued Land
+Stonefall
+Summon Plaguebearer
+Summon Earth Golem
+--
+Call Deer
+Call Giant Rat
+Call Gray Wolf
+Call Brown Bear
+Call Giant Toad
+Call Dire Rat
+Call Tarantula
+Call Stone Gargoyle
+Call Alpha Gray Wolf
+Call Horned Beetle
+Call Swarm
+Call Bog Spitter
+Call Auraune
+Call Greenclaw Beetle
+--
+Call Lesser Minions
+Call Higher Minions
+Call Bloody Skeleton
+Call Dire Beast
+Call Enslaved
+Call Gravekeeper
+--
+Arcane Strike
+Arcane Chaos
+Slow
+Mass Slow
+Paralyze
+Silence
+Confuse
+Weaken
+Unprotect
+Mastermind
+Seal of Hate
+Seal of Fear
+Magic Shield
+--
+Self Healing
+Healing
+Mass Healing
+Antidote
+Purify
+Haste
+Blessing
+Regeneration
+Refill
+Protection Barrier
+Restore
+Cleansing
+Repel Undead
+Divine Strike
+Holy Missile
+Divine Punishment
+Banish Undead
+Mana Burn
+Degen
+Purge
+Might
+Shield
+--
+Throw Stone
+Sprint
+Rest
+--
+Fierce Strike
+Rush
+Taunt
+Heavy Chop
+Wide Slash
+Armor Break
+Offense Break
+Ogre Swing
+Last Stand
+Guard
+Berserk
+Moving Fortress
+Battle Shout
+Vengefull Blade
+--
+Blood Storm
+Assassinate
+Arm Crippler
+Leg Crippler
+Cloak
+Track
+Dash
+Poisoned Meat
+Poisoned Herb
+--
+Power Shot
+Long Shot
+Hawkeye
+Chained Shot
+Strafe
+Triple Shot
+Quill Spray
+Charged Shot
+Burst Shot
+Execution
