@@ -148,68 +148,25 @@
 - [ ] arenas PVE edron, ankrahmun, oramond
 
 # ideias para magias
-Sparks
-Recharge
---
-Light
-Create Fire
-Fire Strike
-Fireball
-Explosion
-Fire Wave
-Blazing Pillar
-Scourched Ground
-Summon Blazing Spirit
-Summon Salamander
---
-Wind Vortex
-Wind Blade
-Tornado
-Storm
-Thunderbolt
-Lightning Nova
-Summon Sparker
-Summon Stormcaller
---
-Water Vortex
-Water Wall
-Water Wave
-Crystal Lance
-Iceberg
-Blizzard
-Summon Waveform
-Summon Tidal Wave
---
-Shoot Stone
-Poisonous Spike
+Sparks - dois shoots de energy
+Recharge - tipo um utura gran só que heala mais
+Create Fire - cria fire field
+Blazing Pillar - cria um pilar que fica atacando os monstros que atacam quem o conjurou
+Scourched Ground - uma "beam" de groundshaker
+Wind Blade - uma bomb de "poff"
+Tornado - tipo um exori gran de ice tornado
+Storm - chuva de energia
+Thunderbolt - dois hits de energy bem fortes
+Lightning Nova - uma beam de energy bem forte
+Water Wall - uma bomba de drown
+Water Wave - drown wave
+Iceberg - grande wave de gelo que deixa com status de freezing
+Blizzard - chuva de gelo
+Shoot Stone - atirar large rock (somente monstros)
+Poisonous Spike - 
 Entangle
 Plagued Land
 Stonefall
-Summon Plaguebearer
-Summon Earth Golem
---
-Call Deer
-Call Giant Rat
-Call Gray Wolf
-Call Brown Bear
-Call Giant Toad
-Call Dire Rat
-Call Tarantula
-Call Stone Gargoyle
-Call Alpha Gray Wolf
-Call Horned Beetle
-Call Swarm
-Call Bog Spitter
-Call Auraune
-Call Greenclaw Beetle
---
-Call Lesser Minions
-Call Higher Minions
-Call Bloody Skeleton
-Call Dire Beast
-Call Enslaved
-Call Gravekeeper
---
 Arcane Strike
 Arcane Chaos
 Slow
@@ -220,19 +177,8 @@ Confuse
 Weaken
 Unprotect
 Mastermind
-Seal of Hate
-Seal of Fear
 Magic Shield
---
-Self Healing
-Healing
-Mass Healing
-Antidote
-Purify
-Haste
-Blessing
-Regeneration
-Refill
+Purify - remove todas as conditions
 Protection Barrier
 Restore
 Cleansing
@@ -246,11 +192,8 @@ Degen
 Purge
 Might
 Shield
---
-Throw Stone
 Sprint
 Rest
---
 Fierce Strike
 Rush
 Taunt
@@ -265,7 +208,6 @@ Berserk
 Moving Fortress
 Battle Shout
 Vengefull Blade
---
 Blood Storm
 Assassinate
 Arm Crippler
@@ -275,7 +217,6 @@ Track
 Dash
 Poisoned Meat
 Poisoned Herb
---
 Power Shot
 Long Shot
 Hawkeye
