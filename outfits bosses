@@ -18,3 +18,7 @@ coiso 3 - <look type="862" head="66" body="67" legs="55" feet="48"
 coiso 4 - <look type="842" head="41" body="29" legs="79" feet="96"
 coiso 5 - <look type="862" head="103" body="122" legs="42" feet="132"
 
+
+#Custom Npcs
+female - <look type="471" head="98" body="0" legs="62" feet="122"
+female - <look type="155" head="98" body="0" legs="62" feet="122"
