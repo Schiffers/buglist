@@ -208,3 +208,10 @@ Execution - alto custo de mana e dano forte
 
 #ideias mapping
 - [ ] ponte com sprites de roshamuul, com uma parte quebrada, necessário missão para arrumar essa ponte e passar para uma dungeon
+
+
+#ideias quests
+- [ ] quest onde o player vai fazendo alguma ação e vai preenchendo o mapa, no final será liberado algum acesso, ou boss ... a ideia veio dessa imagem (http://i.imgur.com/8CBsjgp.png)
+- [ ] fazer um carro no map e fazer ele andar com determinada ação foto (http://i.imgur.com/lgtWsKL.png)
+- [ ] ideia para uma quest parecida com ferumbras quest (pelo menos o estilo de mapping) foto (http://puu.sh/qdMBw/39ead4395a.png)
+- [ ] 
