@@ -45,11 +45,10 @@
 - [ ] arrumar museu de thais (alguns items faltando configuração)
 - [ ] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
-- [ ] fazer monstros do [x] 10.80,[x] 10.90 e [ ] 10.94 (os que faltam)
+- [x] fazer monstros do [x] 10.80,[x] 10.90 e [x] 10.94
 - [ ] fazer actions dos items novos do store
 - [ ] trackear mapas da bibby bloodbath
-- [ ] rework de alguns lugares do mapa que estão muito feios
-- [ ] trackear hunt de quaras em liberty bay
+- [ ] rework de alguns lugares do mapa que estão muito feios (em progress)
 - [ ] fazer world change sight of surrender valley
 - [ ] equip hotkey 
 - [ ] fazer evento da chayenne
