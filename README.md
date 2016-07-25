@@ -163,70 +163,42 @@ Water Wave - drown wave
 Iceberg - grande wave de gelo que deixa com status de freezing
 Blizzard - chuva de gelo
 Shoot Stone - atirar large rock (somente monstros)
-Poisonous Spike - 
-Entangle
-Plagued Land
-Stonefall
-Arcane Strike
-Arcane Chaos
-Slow
-Mass Slow
-Paralyze
-Silence
-Confuse
-Weaken
-Unprotect
-Mastermind
-Magic Shield
+Poisonous Spike - ataque fisico que envena
+Entangle - ataque fisico
+Plagued Land - wave de veneno
+Stonefall - chuva de pedras
+Arcane Strike - magia com novo tipo de damage (irei criar)
+Arcane Chaos - chuva de alguma coisa (novo damage)
+Slow - paralyze
+Mass Slow - paralyze em area
+Silence - impede o player de falar (condition muted)
+Confuse - bebado (?)
+Weaken - tira a defesa (skill reducer)
+Unprotect - remove algum escudo
+Mastermind - protection
+Magic Shield - escudo com % da vida max
 Purify - remove todas as conditions
-Protection Barrier
-Restore
-Cleansing
-Repel Undead
-Divine Strike
-Holy Missile
-Divine Punishment
-Banish Undead
-Mana Burn
-Degen
-Purge
-Might
-Shield
-Sprint
-Rest
-Fierce Strike
-Rush
-Taunt
-Heavy Chop
-Wide Slash
-Armor Break
-Offense Break
-Ogre Swing
-Last Stand
-Guard
-Berserk
-Moving Fortress
-Battle Shout
-Vengefull Blade
-Blood Storm
-Assassinate
-Arm Crippler
-Leg Crippler
-Cloak
-Track
-Dash
-Poisoned Meat
-Poisoned Herb
-Power Shot
-Long Shot
-Hawkeye
-Chained Shot
-Strafe
-Triple Shot
-Quill Spray
-Charged Shot
-Burst Shot
-Execution
+Protection Barrier - cria uma parede por determinado tempo
+Restore - cura toda a vida perdida
+Repel Undead - joga todos os monstros em volta para trás
+Divine Strike - exori san fortão
+Divine Punishment - paralyze, transform e dano de holy
+Banish Undead - bloqueia ataques de death por determinado tempo
+Mana Burn - tira % mana do oponente
+Purge - condição de fire bem forte
+Might - velocidade
+Rest - poe em sleeping e depois cura mana e vida
+Fierce Strike - dano fisico
+Heavy Chop - dano fisico em area
+Blood Storm - chuva de sangue
+Assassinate - teleporta atrás do alvo
+Power Shot - uma wave parecida com "water pulse" só que de fisico
+Long Shot - uma wave parecida com "water pulse" maior só que de fisico
+Strafe - aumenta a velocidade de ataque
+Triple Shot - parecido com razor leaf
+Charged Shot - tem um tempo de conjuração que impede o player de falar, andar etc e depois dispara uma wave muito forte
+Burst Shot - parecido com burst arrow 
+Execution - alto custo de mana e dano forte
 
 
 # ideias para bosses
