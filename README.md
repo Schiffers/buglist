@@ -60,15 +60,15 @@
 - [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
 - [ ] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
 - [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
-- [ ] colocar destinação num teleporte m poh Position(32790, 32269, 8)
+- [x] colocar destinação num teleporte em poh Position(32790, 32269, 8)
 - [ ] arrumar movement de entrada a cave de quaras Position(32366, 31371, 6)
 - [ ] fazer boss da task de carrion worms e adicionar nos scripts das tasks
-- [ ] fazer npcs do 10.94 (Fadil...)
+- [x] fazer npcs do 10.94 (Fadil...)
 - [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
-- [ ] fazer action pra lever da quest em cima da DH quest
+- [x] fazer action pra lever da quest em cima da DH quest
 - [ ] fazer os npcs vender os novos potions
 - [x] arrumar entrada pra ilha do fernfang
-- [ ] verificar a invasão dos wild horses
+- [x] verificar a invasão dos wild horses
 - [x] colocar rewspawn na cave undead em darashia >>>>>
 
 # Em andamento de correção
@@ -147,57 +147,57 @@
 - [ ] arenas PVE edron, ankrahmun, oramond
 
 # ideias para magias
-Sparks - dois shoots de energy
-Recharge - tipo um utura gran só que heala mais
-Create Fire - cria fire field
-Blazing Pillar - cria um pilar que fica atacando os monstros que atacam quem o conjurou
-Scourched Ground - uma "beam" de groundshaker
-Wind Blade - uma bomb de "poff"
-Tornado - tipo um exori gran de ice tornado
-Storm - chuva de energia
-Thunderbolt - dois hits de energy bem fortes
-Lightning Nova - uma beam de energy bem forte
-Water Wall - uma bomba de drown
-Water Wave - drown wave
-Iceberg - grande wave de gelo que deixa com status de freezing
-Blizzard - chuva de gelo
-Shoot Stone - atirar large rock (somente monstros)
-Poisonous Spike - ataque fisico que envena
-Entangle - ataque fisico
-Plagued Land - wave de veneno
-Stonefall - chuva de pedras
-Arcane Strike - magia com novo tipo de damage (irei criar)
-Arcane Chaos - chuva de alguma coisa (novo damage)
-Slow - paralyze
-Mass Slow - paralyze em area
-Silence - impede o player de falar (condition muted)
-Confuse - bebado (?)
-Weaken - tira a defesa (skill reducer)
-Unprotect - remove algum escudo
-Mastermind - protection
-Magic Shield - escudo com % da vida max
-Purify - remove todas as conditions
-Protection Barrier - cria uma parede por determinado tempo
-Restore - cura toda a vida perdida
-Repel Undead - joga todos os monstros em volta para trás
-Divine Strike - exori san fortão
-Divine Punishment - paralyze, transform e dano de holy
-Banish Undead - bloqueia ataques de death por determinado tempo
-Mana Burn - tira % mana do oponente
-Purge - condição de fire bem forte
-Might - velocidade
-Rest - poe em sleeping e depois cura mana e vida
-Fierce Strike - dano fisico
-Heavy Chop - dano fisico em area
-Blood Storm - chuva de sangue
-Assassinate - teleporta atrás do alvo
-Power Shot - uma wave parecida com "water pulse" só que de fisico
-Long Shot - uma wave parecida com "water pulse" maior só que de fisico
-Strafe - aumenta a velocidade de ataque
-Triple Shot - parecido com razor leaf
-Charged Shot - tem um tempo de conjuração que impede o player de falar, andar etc e depois dispara uma wave muito forte
-Burst Shot - parecido com burst arrow 
-Execution - alto custo de mana e dano forte
+- [ ] Sparks - dois shoots de energy
+- [ ] Recharge - tipo um utura gran só que heala mais
+- [ ] Create Fire - cria fire field
+- [ ] Blazing Pillar - cria um pilar que fica atacando os monstros que atacam quem o conjurou
+- [ ] Scourched Ground - uma "beam" de groundshaker
+- [ ] Wind Blade - uma bomb de "poff"
+- [ ] Tornado - tipo um exori gran de ice tornado
+- [ ] Storm - chuva de energia
+- [ ] Thunderbolt - dois hits de energy bem fortes
+- [ ] Lightning Nova - uma beam de energy bem forte
+- [ ] Water Wall - uma bomba de drown
+- [ ] Water Wave - drown wave
+- [ ] Iceberg - grande wave de gelo que deixa com status de freezing
+- [ ] Blizzard - chuva de gelo
+- [ ] Shoot Stone - atirar large rock (somente monstros)
+- [ ] Poisonous Spike - ataque fisico que envena
+- [ ] Entangle - ataque fisico
+- [ ] Plagued Land - wave de veneno
+- [ ] Stonefall - chuva de pedras
+- [ ] Arcane Strike - magia com novo tipo de damage (irei criar)
+- [ ] Arcane Chaos - chuva de alguma coisa (novo damage)
+- [ ] Slow - paralyze
+- [ ] Mass Slow - paralyze em area
+- [ ] Silence - impede o player de falar (condition muted)
+- [ ] Confuse - bebado (?)
+- [ ] Weaken - tira a defesa (skill reducer)
+- [ ] Unprotect - remove algum escudo
+- [ ] Mastermind - protection
+- [ ] Magic Shield - escudo com % da vida max
+- [ ] Purify - remove todas as conditions
+- [ ] Protection Barrier - cria uma parede por determinado tempo
+- [ ] Restore - cura toda a vida perdida
+- [ ] Repel Undead - joga todos os monstros em volta para trás
+- [ ] Divine Strike - exori san fortão
+- [ ] Divine Punishment - paralyze, transform e dano de holy
+- [ ] Banish Undead - bloqueia ataques de death por determinado tempo
+- [ ] Mana Burn - tira % mana do oponente
+- [ ] Purge - condição de fire bem forte
+- [ ] Might - velocidade
+- [ ] Rest - poe em sleeping e depois cura mana e vida
+- [ ] Fierce Strike - dano fisico
+- [ ] Heavy Chop - dano fisico em area
+- [ ] Blood Storm - chuva de sangue
+- [ ] Assassinate - teleporta atrás do alvo
+- [ ] Power Shot - uma wave parecida com "water pulse" só que de fisico
+- [ ] Long Shot - uma wave parecida com "water pulse" maior só que de fisico
+- [ ] Strafe - aumenta a velocidade de ataque
+- [ ] Triple Shot - parecido com razor leaf
+- [ ] Charged Shot - tem um tempo de conjuração que impede o player de falar, andar etc e depois dispara uma wave muito forte
+- [ ] Burst Shot - parecido com burst arrow 
+- [ ] Execution - alto custo de mana e dano forte
 
 
 # ideias para bosses
