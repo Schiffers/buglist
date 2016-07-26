@@ -219,3 +219,4 @@
 #Ideias em Geral
 - [ ] adicionar sistema de quest points, toda vez que o player faz uma quest ganha quest points.. podendo assim, quando tiver points, pegar recompensas [quanto + quest points melhor os itens] e quanto mais dificil a quest + points ganha
 - [ ] criação de continente novo c/ cidades, hunts, tasks novas, quests exclusivas e em cima disto cobrar uma VIP para ter acesso do mesmo
+- [ ] quest em formato de labirinto complexo c/ tps e mobs dificeis
