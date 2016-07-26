@@ -215,3 +215,6 @@ Execution - alto custo de mana e dano forte
 - [ ] fazer um carro no map e fazer ele andar com determinada ação foto (http://i.imgur.com/lgtWsKL.png)
 - [ ] ideia para uma quest parecida com ferumbras quest (pelo menos o estilo de mapping) foto (http://puu.sh/qdMBw/39ead4395a.png)
 - [ ] 
+
+#Ideias em Geral
+- [ ] adicionar sistema de quest points, toda vez que o player faz uma quest ganha quest points.. podendo assim, quando tiver points, pegar recompensas [quanto + quest points melhor os itens] e quanto mais dificil a quest + points ganha
