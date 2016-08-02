@@ -221,4 +221,5 @@
 - [ ] criação de continente novo c/ cidades, hunts, tasks novas, quests exclusivas e em cima disto cobrar uma VIP para ter acesso do mesmo
 - [ ] quest em formato de labirinto complexo c/ tps e mobs dificeis
 - [ ] sistema de hit consecutivo, exemplo, se o player hitar mais que X em X vezes seguidas dará um dano a mais, como se fosse um critical, mas isso ainda pode ser somado com o critical, exemplo prático:
-- player hitou 4 vezes um valor maior que 500, o 5 hit (caso seja maior que 500) irá ter 100% de dano a mais
+- [ ] player hitou 4 vezes um valor maior que 500, o 5 hit (caso seja maior que 500) irá ter 100% de dano a mais
+- [ ] fazer umas raids que lembram o old tibia com "giant spiders" mais fortes que levam o terror hahahaha
