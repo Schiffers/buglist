@@ -198,6 +198,7 @@
 - [ ] Charged Shot - tem um tempo de conjuração que impede o player de falar, andar etc e depois dispara uma wave muito forte
 - [ ] Burst Shot - parecido com burst arrow 
 - [ ] Execution - alto custo de mana e dano forte
+- [ ] aurora heal cura em grande area, cura toda a vida mas tem um cd bem alto (somente para druid)
 
 
 # ideias para bosses
@@ -214,7 +215,10 @@
 - [ ] quest onde o player vai fazendo alguma ação e vai preenchendo o mapa, no final será liberado algum acesso, ou boss ... a ideia veio dessa imagem (http://i.imgur.com/8CBsjgp.png)
 - [ ] fazer um carro no map e fazer ele andar com determinada ação foto (http://i.imgur.com/lgtWsKL.png)
 - [ ] ideia para uma quest parecida com ferumbras quest (pelo menos o estilo de mapping) foto (http://puu.sh/qdMBw/39ead4395a.png)
-- [ ] 
+- [ ] fazer tipo uma world change que cria um portal em algum lugar para os players entrarem, essa seria a dungeon mais hard do game
+boss com IA e muita vida, mas muito mesmo, e claro bons loots
+3 andares enormes, monstros diferentes e 3 bosses fortes por andar
+no ultimo andar o boss mais forte
 
 #Ideias em Geral
 - [ ] adicionar sistema de quest points, toda vez que o player faz uma quest ganha quest points.. podendo assim, quando tiver points, pegar recompensas [quanto + quest points melhor os itens] e quanto mais dificil a quest + points ganha
@@ -223,3 +227,11 @@
 - [ ] sistema de hit consecutivo, exemplo, se o player hitar mais que X em X vezes seguidas dará um dano a mais, como se fosse um critical, mas isso ainda pode ser somado com o critical, exemplo prático:
 - [ ] player hitou 4 vezes um valor maior que 500, o 5 hit (caso seja maior que 500) irá ter 100% de dano a mais
 - [ ] fazer umas raids que lembram o old tibia com "giant spiders" mais fortes que levam o terror hahahaha
+
+#nomes de cidades:
+maihama
+
+#nomes de npc:
+- lenessia
+- shiro
+
