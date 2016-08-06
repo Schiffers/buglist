@@ -55,9 +55,9 @@
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
-- [ ] colocar detalhes na cave de goldhaven
+- [x] colocar detalhes na cave de goldhaven
 - [x] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
-- [ ] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
+- [x] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
 - [ ] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
 - [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
 - [x] colocar destinação num teleporte em poh Position(32790, 32269, 8)
