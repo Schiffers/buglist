@@ -66,13 +66,13 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
                         item:setAttribute("name", ItemType(itemEx.itemid):getName().. " + " ..item:getLevel())
                         player:sendTextMessage(MESSAGE_STATUS_CONSOLE_BLUE, "Voce refinou com sucesso! Agora seu "..ItemType(itemEx.itemid):getName().." eh level " ..item:getLevel())
                         if atk > 0 then
-                            item:setAttribute("attack", atk + 3)
+                            item:setAttribute("attack", atk+(3*item:getLevel()))
                             return true
                         elseif arm > 0 then
-                            item:setAttribute("armor", arm + 3)
+                            item:setAttribute("armor", arm+(3*item:getLevel()))
                             return true
                         elseif def > 0 and atk <= 0 then
-                            item:setAttribute("defense", def + 3)
+                            item:setAttribute("defense", def+(3*item:getLevel()))
                           return true
                         end
                     end
