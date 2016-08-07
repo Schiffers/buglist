@@ -1,0 +1,88 @@
+local vocations = {1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12} -- Vocações que podem refinar itens
+
+local ids_bloqueados = {2160, 5706, 2463} -- Itens que não podem ser refinados
+
+local controle = {
+    {level = 0, quantOre = 1, chance = 100}, -- Level do item, quantidade de Iron Ore necessaria, chance de sucesso
+    {level = 1, quantOre = 2, chance = 90},
+    {level = 2, quantOre = 3, chance = 80},
+    {level = 3, quantOre = 4, chance = 70},
+    {level = 4, quantOre = 5, chance = 60},
+    {level = 5, quantOre = 6, chance = 50},
+    {level = 6, quantOre = 7, chance = 40},
+    {level = 7, quantOre = 8, chance = 30},
+    {level = 8, quantOre = 9, chance = 20},
+    {level = 9, quantOre = 10, chance = 10}
+}
+
+function Item.getLevel(self)
+    if self.uid > 0 then
+        if self:getAttribute("aid") < 1 then
+            return 0
+        else
+            return (tonumber(self:getAttribute("aid"))-100) or 0
+        end
+    end
+    return false
+end
+
+function Item.addLevel(self, count)
+    if self.uid > 0 and tonumber(count) > 0 then
+        return self:setAttribute("aid", (self:getLevel() + count)+100)
+    end
+    return false
+end
+
+function getItemDescriptionsById(id)
+    local it = ItemType(id)
+    return {attack = it.getAttack(), defense = it.getDefense(), armor = it.getArmor()}
+end
+
+function onUse(cid, item, fromPosition, itemEx, toPosition)
+    local player = Player(cid)
+
+    if not isInArray(vocations, player:getVocation():getId()) then
+        return player:sendCancelMessage("Sua vocacao nao pode refinar.")
+    elseif isInArray(ids_bloqueados, itemEx.uid) then
+        return player:sendCancelMessage("Este item nao pode ser refinado.")
+    end
+
+    local atk = ItemType(itemEx.itemid):getAttack() or nil
+    local def = ItemType(itemEx.itemid):getDefense() or nil
+    local arm = ItemType(itemEx.itemid):getArmor() or nil
+
+    if atk > 0 or def > 0 or arm > 0 then
+        for _, upgrade in pairs(controle) do
+            local chance = math.random(1, 100)
+            local item = Item(itemEx.uid)
+            if item:getLevel() == upgrade.level then
+                if player:removeItem(5880, upgrade.quantOre) then
+                    item:getPosition():sendMagicEffect(CONST_ME_CRAPS)
+                    if chance <= upgrade.chance then
+                        if item:getLevel() == 0 then
+                            item:setAttribute("description", "Esse item foi refinado por " ..player:getName())
+                        end
+                        item:addLevel(1)
+                        item:setAttribute("name", ItemType(itemEx.itemid):getName().. " + " ..item:getLevel())
+                        player:sendTextMessage(MESSAGE_STATUS_CONSOLE_BLUE, "Voce refinou com sucesso! Agora seu "..ItemType(itemEx.itemid):getName().." eh level " ..item:getLevel())
+                        if atk > 0 then
+                            item:setAttribute("attack", atk + 3)
+                            return true
+                        elseif arm > 0 then
+                            item:setAttribute("armor", arm + 3)
+                            return true
+                        elseif def > 0 and atk <= 0 then
+                            item:setAttribute("defense", def + 3)
+                          return true
+                        end
+                    end
+                else
+                    player:sendCancelMessage("Voce nao tem iron ores o suficiente. Voce precisa de "..upgrade.quantOre.." iron ores.")
+                end
+            end
+        end
+    else
+        player:sendCancelMessage("Esse item nao pode ser refinado.")
+    end
+  return true
+end
