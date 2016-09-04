@@ -11,8 +11,8 @@ void ProtocolGame::sendStoreHistory(uint16_t page, uint32_t entriesPerPage)
     NetworkMessage msg;
     msg.addByte(0xFD);
 
-    msg.add<uint16_t>(page);
-    msg.addByte((storeHistory.size() > entriesPerPage) ? 0x01 : 0x00);
+    msg.add<uint32_t>(page);
+    msg.add<uint32_t>((storeHistory.size() > entriesPerPage) ? 0x01 : 0x00);
 
     uint8_t entries = std::min<uint8_t>(entriesPerPage, static_cast<uint32_t>(storeHistory.size()));
     msg.addByte(entries);
