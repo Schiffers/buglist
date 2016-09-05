@@ -18,12 +18,12 @@
 # Quests to test
 - [ ] dreams challange
 - [ ] service in yalahar
-- [ ] wrath of the imperor
+- [x] wrath of the imperor
 - [ ] helmet of the ancients
 - [ ] hidden city of beregar
 - [ ] elemental spheres
 - [ ] the gravedigger of drefia
-- [ ] inquisiton
+- [x] inquisiton
 - [ ] pits of inferno
 
 # Bugs to fix (portuguese)
@@ -38,7 +38,7 @@
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
 - [ ] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
-- [ ] arrumar porta id 12701
+- [x] arrumar porta id 12701
 - [ ] arrumar npc pra levar os players pra ilha dos wyrms
 - [ ] arrumar action de entrada pro dp de krailos
 - [ ] arrumar entrada da cave underwater em krailos
