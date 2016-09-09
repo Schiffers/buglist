@@ -13,11 +13,11 @@
 - [ ] deep catacombs - CUSTOM
 - [ ] the heart of destruction 
 - [ ] devovorga event
-- [ ] the spike quest
+- [x] the spike quest
 
 # Quests to test
 - [ ] dreams challange
-- [ ] service in yalahar
+- [x] service in yalahar
 - [x] wrath of the imperor
 - [ ] helmet of the ancients
 - [ ] hidden city of beregar
@@ -73,7 +73,7 @@
 
 # Em andamento de correção
 
-- [ ] ferumbras ascendant quest
+- [x] ferumbras ascendant quest
 
 # Corrigidos
 
