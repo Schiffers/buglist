@@ -32,7 +32,7 @@
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
 - [x] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
 - [x] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
-- [ ] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
+- [x] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
 - [x] fazer actions pras arvores que brilham (o tal nothing happens)
 - [x] fazer o action do silencer plateau
 - [ ] arrumar lavas novas para poder jogar items (thrasholder)
@@ -70,10 +70,6 @@
 - [x] arrumar entrada pra ilha do fernfang
 - [x] verificar a invasão dos wild horses
 - [x] colocar rewspawn na cave undead em darashia >>>>>
-
-# Em andamento de correção
-
-- [x] ferumbras ascendant quest
 
 # Corrigidos
 
