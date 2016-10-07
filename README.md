@@ -1,4 +1,21 @@
 # buglist
+
+# Source
+- [x] reward chest (socket)
+- [x] equip hotkey (bruno)
+- [x] passive monsters
+- [x] store 10.97 working
+- [x] removido o tempo de espera no walkthrogh de players em PZ
+- [x] fly system (Mkalo)
+- [x] function onSpawn() (printer)
+- [ ] functions do sistema de "discover" https://github.com/ranisalt/forgottenserver/commit/9554f746f8ee987bad6ec1b14d9f373c540315c2
+- [x] clean protection zones
+- [x] function creature:moveTo()
+- [x] store inbox
+- [x] gold pounch (pagination)
+- [ ] blessing adventurer https://github.com/brunominervino/tfs_systems/tree/bless
+- [ ] systems required https://github.com/brunominervino/tfs_systems/branches/stale
+
 # Quests to do
 - [ ] oramond quest 
 - [ ] dark trails quest
