@@ -43,7 +43,7 @@
 - [ ] elemental spheres
 - [ ] the gravedigger of drefia
 - [x] inquisiton
-- [ ] pits of inferno
+- [x] pits of inferno
 
 # Bugs to fix (portuguese)
 - [ ] colocar nomes dos items 10.90/94 items de quest
@@ -69,7 +69,7 @@
 - [ ] trackear mapas da bibby bloodbath
 - [ ] rework de alguns lugares do mapa que estão muito feios (em progress)
 - [ ] fazer world change sight of surrender valley
-- [ ] equip hotkey 
+- [x] equip hotkey 
 - [ ] fazer evento da chayenne
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
