@@ -14,8 +14,8 @@
 - [x] store inbox
 - [x] gold pounch (pagination)
 - [ ] blessing adventurer https://github.com/brunominervino/tfs_systems/tree/bless
-- [ ] systems required https://github.com/brunominervino/tfs_systems/branches/stale
-- [ ] orange skull system https://github.com/brunominervino/tfs_systems/commit/7bc68bf649cd600a8a90cb3203f0059ce05e8f6d
+- [x] orange skull system
+- [x] window skulls 
 
 
 # Quests to do
