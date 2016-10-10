@@ -35,7 +35,7 @@
 - [x] the spike quest
 
 # Quests to test
-- [ ] dreams challange
+- [x] dreams challange
 - [x] service in yalahar
 - [x] wrath of the imperor
 - [ ] helmet of the ancients
