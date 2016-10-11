@@ -46,6 +46,8 @@
 - [x] pits of inferno
 
 # Bugs to fix (portuguese)
+- [ ] arrumar monstro chayenne, assim como sua raid etc
+- [ ] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
 - [ ] colocar nomes dos items 10.90/94 items de quest
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
@@ -77,7 +79,7 @@
 - [x] colocar detalhes na cave de goldhaven
 - [x] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [x] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
-- [ ] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
+- [x] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
 - [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
 - [x] colocar destinação num teleporte em poh Position(32790, 32269, 8)
 - [ ] arrumar movement de entrada a cave de quaras Position(32366, 31371, 6)
@@ -242,6 +244,7 @@ no ultimo andar o boss mais forte
 - [ ] sistema de hit consecutivo, exemplo, se o player hitar mais que X em X vezes seguidas dará um dano a mais, como se fosse um critical, mas isso ainda pode ser somado com o critical, exemplo prático:
 - [ ] player hitou 4 vezes um valor maior que 500, o 5 hit (caso seja maior que 500) irá ter 100% de dano a mais
 - [ ] fazer umas raids que lembram o old tibia com "giant spiders" mais fortes que levam o terror hahahaha
+- [ ] evento de bosses/lutas entre players em que só quem tiver um ticket premiado pode entrar. O ticket pode ser dropado em carater extremamente raro de alguns tipos de monstros (preferencialmente os que tem pouco no map, (elder wyrm, seacrest serpent, black knight, dawnfire asura, midnight asura, omnivora, deepling elite, deepling tyrant, Eexecowtioner, feversleep, terrorsleep, shiversleep, sight of surrender, infernalist, shaburak prince, askarak prince, shock head, stone devourer, cliffstrider, lava golem, walker
 
 #nomes de cidades:
 maihama
