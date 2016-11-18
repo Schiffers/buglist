@@ -26,3 +26,5 @@ female - <look type="155" head="98" body="0" legs="62" feet="122"
 #Custom bosses (novos)
 Tharsak - <look type="862" head="46" body="66" legs="0" feet="114" addons="3"/>
 Shecrak - <look type="862" head="76" body="132" legs="94" feet="56" addons="3"/>
+Zacutter -  <look type="862" head="76" body="52" legs="14" feet="109" addons="1"/>
+
