@@ -22,3 +22,6 @@ coiso 5 - <look type="862" head="103" body="122" legs="42" feet="132"
 #Custom Npcs
 female - <look type="471" head="98" body="0" legs="62" feet="122"
 female - <look type="155" head="98" body="0" legs="62" feet="122"
+
+#Custom bosses (novos)
+Tharsak - <look type="862" head="46" body="66" legs="0" feet="114" addons="3"/>
