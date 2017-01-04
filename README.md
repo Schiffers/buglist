@@ -46,25 +46,25 @@
 - [x] pits of inferno
 
 # Bugs to fix (portuguese)
-- [ ] arrumar monstro chayenne, assim como sua raid etc
+- [x] arrumar monstro chayenne, assim como sua raid etc
 - [x] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
 - [ ] colocar nomes dos items 10.90/94 items de quest
-- [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
+- [x] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
 - [x] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
 - [x] fazer action de sujar o deus das guzzlemaws em roshamuul (silencer excretion)
 - [x] fazer action dos buckets de roshamuul, pra sumonar frazzlemaw
 - [x] fazer actions pras arvores que brilham (o tal nothing happens)
 - [x] fazer o action do silencer plateau
-- [ ] arrumar lavas novas para poder jogar items (thrasholder)
-- [ ] arrumar respawn da mama long legs
+- [x] arrumar lavas novas para poder jogar items (thrasholder)
+- [x] arrumar respawn da mama long legs
 - [ ] arrumar respawn da bibby bloodbath
 - [x] arrumar porta id 12701
 - [ ] arrumar npc pra levar os players pra ilha dos wyrms
-- [ ] arrumar action de entrada pro dp de krailos
-- [ ] arrumar entrada da cave underwater em krailos
+- [x] arrumar action de entrada pro dp de krailos
+- [x] arrumar entrada da cave underwater em krailos
 - [ ] arrumar museu de thais (alguns items faltando configuração)
-- [ ] fazer action pros ovinhos de aranha
+- [x] fazer action pros ovinhos de aranha
 - [ ] remover necessidade de quest pra ir pra farmine
 - [x] fazer monstros do [x] 10.80,[x] 10.90 e [x] 10.94
 - [ ] fazer actions dos items novos do store
@@ -72,17 +72,17 @@
 - [ ] rework de alguns lugares do mapa que estão muito feios (em progress)
 - [ ] fazer world change sight of surrender valley
 - [x] equip hotkey 
-- [ ] fazer evento da chayenne
-- [ ] remover necessidade de quest para negociar com rashid
+- [x] fazer evento da chayenne
+- [x] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
 - [x] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [x] colocar detalhes na cave de goldhaven
 - [x] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [x] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
 - [x] fazer uma varredura no items.xml e colocar mais espaço em alguns corpos de criaturas
-- [ ] remover necesssidade de quest para pegar o hallowed axe com o oldrak
+- [x] remover necesssidade de quest para pegar o hallowed axe com o oldrak
 - [x] colocar destinação num teleporte em poh Position(32790, 32269, 8)
-- [ ] arrumar movement de entrada a cave de quaras Position(32366, 31371, 6)
+- [x] arrumar movement de entrada a cave de quaras Position(32366, 31371, 6)
 - [ ] fazer boss da task de carrion worms e adicionar nos scripts das tasks
 - [x] fazer npcs do 10.94 (Fadil...)
 - [ ] fazer movements para as armors, boots, legs, helmets, rings e weapons dos updates 10.80, 10.90, 10.94.
