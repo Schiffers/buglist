@@ -47,7 +47,7 @@
 
 # Bugs to fix (portuguese)
 - [ ] arrumar monstro chayenne, assim como sua raid etc
-- [ ] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
+- [x] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
 - [ ] colocar nomes dos items 10.90/94 items de quest
 - [ ] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
@@ -75,7 +75,7 @@
 - [ ] fazer evento da chayenne
 - [ ] remover necessidade de quest para negociar com rashid
 - [ ] arena pvp de thais, edron, oramond e ankrahmun
-- [ ] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
+- [x] arrumar entrada dos bosses de oramond (bullwark, lisa e glooth fairy)
 - [x] colocar detalhes na cave de goldhaven
 - [x] verificar se está funcionando a task de mutated bat e levando o player para o local correto.
 - [x] verificar a CONDITION_DROWN dos oceanos, pois a condição de drowning não está saindo 
