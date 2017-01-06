@@ -58,7 +58,7 @@
 - [x] fazer o action do silencer plateau
 - [x] arrumar lavas novas para poder jogar items (thrasholder)
 - [x] arrumar respawn da mama long legs
-- [ ] arrumar respawn da bibby bloodbath
+- [x] arrumar respawn da bibby bloodbath
 - [x] arrumar porta id 12701
 - [ ] arrumar npc pra levar os players pra ilha dos wyrms
 - [x] arrumar action de entrada pro dp de krailos
