@@ -46,6 +46,7 @@
 - [x] pits of inferno
 
 # Bugs to fix (portuguese)
+- [ ] fazer tasks dos monstros {hellflayer, askarak demons, shaburak demons, carrion worm, ogres, ashuras, ice witch, fury}
 - [x] arrumar monstro chayenne, assim como sua raid etc
 - [x] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
 - [ ] colocar nomes dos items 10.90/94 items de quest
