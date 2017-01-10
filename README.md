@@ -41,7 +41,7 @@
 - [ ] helmet of the ancients
 - [ ] hidden city of beregar
 - [ ] elemental spheres
-- [ ] the gravedigger of drefia
+- [x] the gravedigger of drefia
 - [x] inquisiton
 - [x] pits of inferno
 
