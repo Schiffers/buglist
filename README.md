@@ -154,15 +154,15 @@
 
 # lugares para trackear
 - [ ] entrada da mini world change dos water's elementals em POH
-- [ ] cave de quaras de liberty bay
+- [x] cave de quaras de liberty bay
 - [ ] the otherworld se possivel completo, não precisa os bosses, mas todos os lugares possiveis de ir
 - [ ] fazer a questzinha mysterious ornate chest pra pegar o mapa de krailos/otherworld
-- [ ] seacrest grounts tem que fazer uma questzinha de acesso (http://tibiawiki.com.br/wiki/Twenty_Miles_Beneath_the_Sea_Quest)
+- [x] seacrest grounts tem que fazer uma questzinha de acesso (http://tibiawiki.com.br/wiki/Twenty_Miles_Beneath_the_Sea_Quest)
 - [ ] entrada do spirit gates em vengoth
-- [ ] entradas do the otherworld de edron, farmine, kazordoon e svargrond
-- [ ] cavezinha em edron (eu explico onde fica complicado falar sem ir lá)
-- [ ] retrackear a cave de quaras em PH (oriento onde fica)
-- [ ] arenas PVE edron, ankrahmun, oramond
+- [x] entradas do the otherworld de edron, farmine, kazordoon e svargrond
+- [x] cavezinha em edron (eu explico onde fica complicado falar sem ir lá)
+- [x] retrackear a cave de quaras em PH (oriento onde fica)
+- [x] arenas PVE edron, ankrahmun, oramond
 
 # ideias para magias
 - [ ] Sparks - dois shoots de energy
@@ -228,6 +228,7 @@
 
 #ideias mapping
 - [ ] ponte com sprites de roshamuul, com uma parte quebrada, necessário missão para arrumar essa ponte e passar para uma dungeon
+- [ ] dar um rework no canto de ankrahmun, colocar uma tumba nova com uma outra world change de pharaoh
 
 
 #ideias quests
