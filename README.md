@@ -255,4 +255,7 @@ maihama
 #nomes de npc:
 - lenessia
 - shiro
+- rakuzan
+- seiron
+
 
