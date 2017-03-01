@@ -33,6 +33,7 @@
 - [ ] the heart of destruction 
 - [ ] devovorga event
 - [x] the spike quest
+- [ ] quest nova na seal dos undead dragons (colocar action id de alguma coisa para reparar os cristais e então abrir o tp)
 
 # Quests to test
 - [x] dreams challange
