@@ -13,7 +13,7 @@
 - [x] function creature:moveTo()
 - [x] store inbox
 - [x] gold pounch (pagination)
-- [ ] blessing adventurer https://github.com/brunominervino/tfs_systems/tree/bless
+- [x] blessing adventurer https://github.com/brunominervino/tfs_systems/tree/bless
 - [x] orange skull system
 - [x] window skulls 
 
@@ -50,7 +50,7 @@
 - [ ] fazer tasks dos monstros {hellflayer, askarak demons, shaburak demons, carrion worm, ogres, ashuras, ice witch, fury}
 - [x] arrumar monstro chayenne, assim como sua raid etc
 - [x] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
-- [ ] colocar nomes dos items 10.90/94 items de quest
+- [x] colocar nomes dos items 10.90/94 items de quest
 - [x] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
 - [x] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
@@ -70,7 +70,6 @@
 - [ ] remover necessidade de quest pra ir pra farmine
 - [x] fazer monstros do [x] 10.80,[x] 10.90 e [x] 10.94
 - [ ] fazer actions dos items novos do store
-- [ ] trackear mapas da bibby bloodbath
 - [ ] rework de alguns lugares do mapa que estão muito feios (em progress)
 - [ ] fazer world change sight of surrender valley
 - [x] equip hotkey 
@@ -156,7 +155,7 @@
 # lugares para trackear
 - [ ] entrada da mini world change dos water's elementals em POH
 - [x] cave de quaras de liberty bay
-- [ ] the otherworld se possivel completo, não precisa os bosses, mas todos os lugares possiveis de ir
+- [x] the otherworld se possivel completo, não precisa os bosses, mas todos os lugares possiveis de ir
 - [ ] fazer a questzinha mysterious ornate chest pra pegar o mapa de krailos/otherworld
 - [x] seacrest grounts tem que fazer uma questzinha de acesso (http://tibiawiki.com.br/wiki/Twenty_Miles_Beneath_the_Sea_Quest)
 - [ ] entrada do spirit gates em vengoth
@@ -248,7 +247,7 @@ no ultimo andar o boss mais forte
 - [ ] sistema de hit consecutivo, exemplo, se o player hitar mais que X em X vezes seguidas dará um dano a mais, como se fosse um critical, mas isso ainda pode ser somado com o critical, exemplo prático:
 - [ ] player hitou 4 vezes um valor maior que 500, o 5 hit (caso seja maior que 500) irá ter 100% de dano a mais
 - [ ] fazer umas raids que lembram o old tibia com "giant spiders" mais fortes que levam o terror hahahaha
-- [ ] evento de bosses/lutas entre players em que só quem tiver um ticket premiado pode entrar. O ticket pode ser dropado em carater extremamente raro de alguns tipos de monstros (preferencialmente os que tem pouco no map, (elder wyrm, seacrest serpent, black knight, dawnfire asura, midnight asura, omnivora, deepling elite, deepling tyrant, Eexecowtioner, feversleep, terrorsleep, shiversleep, sight of surrender, infernalist, shaburak prince, askarak prince, shock head, stone devourer, cliffstrider, lava golem, walker
+- [ ] evento de bosses/lutas entre players em que só quem tiver um ticket premiado pode entrar. O ticket pode ser dropado em carater extremamente raro de alguns tipos de monstros (preferencialmente os que tem pouco no map, (elder wyrm, seacrest serpent, black knight, dawnfire asura, midnight asura, omnivora, deepling elite, deepling tyrant, Execowtioner, feversleep, terrorsleep, shiversleep, sight of surrender, infernalist, shaburak prince, askarak prince, shock head, stone devourer, cliffstrider, lava golem
 
 #nomes de cidades:
 maihama
