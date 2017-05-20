@@ -65,7 +65,7 @@ class Store
 
 		//scripting
 		bool executeOnBuy(Player* player, StoreOffer* offer, const std::string& param);
-		bool executeOnRender(Player* player, StoreOffer* offer);
+		bool executeOnRender(Player* player, StoreOffer* offer, std::string& reason);
 
 	protected: 
 		std::unique_ptr<LuaScriptInterface> scriptInterface;
@@ -151,7 +151,7 @@ class StoreOffer : public StoreEntry
 		StoreOffer(uint32_t _id) {
 			id = _id;
 			price = 0;
-
+			type = STORE_OFFERTYPE_OTHER;
 			scriptInterface = nullptr;
 			renderEvent = -1;
 			buyEvent = -1;
@@ -165,8 +165,8 @@ class StoreOffer : public StoreEntry
 			return price;
 		}
 
-		StoreOfferState_t getState() const {
-			return state;
+		StoreOfferType_t getType() const {
+			return type;
 		}
 
 		 std::vector<SubOffer>& getSubOffers() {
@@ -181,7 +181,7 @@ class StoreOffer : public StoreEntry
 		uint32_t id;
 		uint32_t price;
 		std::string message; //on purchase message
-		StoreOfferState_t state;
+		StoreOfferType_t type;
 
 		std::vector<SubOffer> subOffers; //bundled offers
 
