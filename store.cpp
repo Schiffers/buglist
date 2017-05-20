@@ -201,7 +201,7 @@ boost::optional<StoreOffer&> Store::getOfferById(uint32_t id)
 	return boost::optional<StoreOffer&>();
 }
 
-bool Store::executeOnRender(Player* player, StoreOffer* offer)
+bool Store::executeOnRender(Player* player, StoreOffer* offer, std::string& reason)
 {
 	if (offer->renderEvent != -1) {
 		// onRender(player, offer)
@@ -223,7 +223,16 @@ bool Store::executeOnRender(Player* player, StoreOffer* offer)
 		LuaScriptInterface::pushUserdata<StoreOffer>(L, offer);
 		LuaScriptInterface::setMetatable(L, -1, "StoreOffer");
 
-		return scriptInterface->callFunction(2);
+		bool result = false;
+		if (scriptInterface->protectedCall(L, 2, 2) != 0) {
+			LuaScriptInterface::reportError(nullptr, LuaScriptInterface::popString(L));
+		} else {
+			result = LuaScriptInterface::getBoolean(L, -2);
+			reason = LuaScriptInterface::getString(L, -1);
+			lua_pop(L, 2);
+		}
+		scriptInterface->resetScriptEnv();
+		return result;
 	}
 
 	return false;
