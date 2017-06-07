@@ -19,15 +19,14 @@
 
 
 # Quests to do
-- [ ] oramond quest 
+- [ ] oramond quest (hero of rathleton done)
 - [ ] dark trails quest
 - [ ] shadows of yalahar
-- [ ] grimvale quest
+- [x] grimvale quest
 - [ ] rottin wood quest
 - [ ] liquid black quest
 - [ ] mysterious ornate chest
 - [ ] quest dos seals fodões em venore (perto dos grim reapers) -- CUSTOM
-- [ ] grimvale quest
 - [ ] new pits of inferno - CUSTOM
 - [ ] deep catacombs - CUSTOM
 - [ ] the heart of destruction 
