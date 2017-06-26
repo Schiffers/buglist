@@ -5,7 +5,7 @@
 
 
 Reward::Reward() :
-	Container(ITEM_REWARD_CONTAINER)
+Container(ITEM_REWARD_CONTAINER)
 {
 	maxSize = 32;
 	unlocked = false;
@@ -21,15 +21,15 @@ ReturnValue Reward::queryAdd(int32_t, const Thing& thing, uint32_t,
 
 	const Item* item = thing.getItem();
 	if (!item) {
-		return RETURNVALUE_NOTPOSSIBLE;		
+		return RETURNVALUE_NOTPOSSIBLE;
 	}
-	
+
 	if (item == this) {
-		return RETURNVALUE_THISISIMPOSSIBLE;		
+		return RETURNVALUE_THISISIMPOSSIBLE;
 	}
-	
+
 	if (!item->isPickupable()) {
-		return RETURNVALUE_CANNOTPICKUP;		
+		return RETURNVALUE_CANNOTPICKUP;
 	}
 
 	return RETURNVALUE_NOERROR;
