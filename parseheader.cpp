@@ -6,8 +6,7 @@ void Connection::parseHeader(const boost::system::error_code& error)
 	if (error) {
 		close(FORCE_CLOSE);
 		return;
-	}
-	else if (connectionState == CONNECTION_STATE_DISCONNECTED) {
+	} else if (connectionState == CONNECTION_STATE_DISCONNECTED) {
 		return;
 	}
 
@@ -23,8 +22,7 @@ void Connection::parseHeader(const boost::system::error_code& error)
 
 		if (!receivedName && msgBuffer[1] == 0x00) {
 			receivedLastChar = true;
-		}
-		else {
+		} else {
 			std::string serverName = g_config.getString(ConfigManager::SERVER_NAME) + "\n";
 
 			if (!receivedName) {
@@ -34,8 +32,7 @@ void Connection::parseHeader(const boost::system::error_code& error)
 
 					accept();
 					return;
-				}
-				else {
+				} else {
 					std::cout << "[Network error - Connection::parseHeader] Invalid Client Login" << std::endl;
 					close(FORCE_CLOSE);
 					return;
@@ -50,8 +47,7 @@ void Connection::parseHeader(const boost::system::error_code& error)
 
 				accept();
 				return;
-			}
-			else {
+			} else {
 				std::cout << "[Network error - Connection::parseHeader] Invalid Client Login" << std::endl;
 				close(FORCE_CLOSE);
 				return;
@@ -83,8 +79,7 @@ void Connection::parseHeader(const boost::system::error_code& error)
 		msg.setLength(size + NetworkMessage::HEADER_LENGTH);
 		boost::asio::async_read(socket, boost::asio::buffer(msg.getBodyBuffer(), size),
 			std::bind(&Connection::parsePacket, shared_from_this(), std::placeholders::_1));
-	}
-	catch (boost::system::system_error& e) {
+	} catch (boost::system::system_error& e) {
 		std::cout << "[Network error - Connection::parseHeader] " << e.what() << std::endl;
 		close(FORCE_CLOSE);
 	}
