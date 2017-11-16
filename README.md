@@ -10,7 +10,7 @@ ITEM_ATTRIBUTE_LOOTBONUS)
 - [x] removido o tempo de espera no walkthrogh de players em PZ
 - [x] fly system (Mkalo)
 - [x] function onSpawn() (printer)
-- [ ] functions do sistema de "discover" https://github.com/ranisalt/forgottenserver/commit/9554f746f8ee987bad6ec1b14d9f373c540315c2
+- [x] functions do sistema de "discover" https://github.com/ranisalt/forgottenserver/commit/9554f746f8ee987bad6ec1b14d9f373c540315c2 
 - [x] clean protection zones
 - [x] function creature:moveTo()
 - [x] store inbox
@@ -35,6 +35,8 @@ ITEM_ATTRIBUTE_LOOTBONUS)
 - [ ] devovorga event
 - [x] the spike quest
 - [ ] quest nova na seal dos undead dragons (colocar action id de alguma coisa para reparar os cristais e então abrir o tp)
+- [x] ferumbras ascendant quest
+- [x] forgotten knowledge quest
 
 # Quests to test
 - [x] dreams challange
@@ -48,7 +50,7 @@ ITEM_ATTRIBUTE_LOOTBONUS)
 - [x] pits of inferno
 
 # Bugs to fix (portuguese)
-- [ ] fazer tasks dos monstros {hellflayer, askarak demons, shaburak demons, carrion worm, ogres, ashuras, ice witch, fury}
+- [ ] fazer tasks dos monstros {hellflayer, askarak demons, shaburak demons, carrion worm, ogres, ashuras, ice witch, fury, were creatures, seacrest sea serpent, grimeleech, vexclaw}
 - [x] arrumar monstro chayenne, assim como sua raid etc
 - [x] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
 - [x] colocar nomes dos items 10.90/94 items de quest
