@@ -1,8 +1,7 @@
 # buglist
 
 # Source
-- [ ] novos atributes para os items (ITEM_ATTRIBUTE_STORE, ITEM_ATTRIBUTE_SLOTS, ITEM_ATTRIBUTE_EVASION, ITEM_ATTRIBUTE_REFLECTION, 
-ITEM_ATTRIBUTE_LOOTBONUS)
+- [x] item custom attributes
 - [x] reward chest (socket)
 - [x] equip hotkey (bruno)
 - [x] passive monsters
