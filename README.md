@@ -155,16 +155,17 @@
 - [ ] USED?! With the Rage, Hunger and Destrunction gone, you´re sucked into the heart of destruction!! THE WORLD DEVOURER AWAITS YOU! (quando o the rage morre)
 
 # lugares para trackear
-- [ ] entrada da mini world change dos water's elementals em POH
+- [x] entrada da mini world change dos water's elementals em POH
 - [x] cave de quaras de liberty bay
 - [x] the otherworld se possivel completo, não precisa os bosses, mas todos os lugares possiveis de ir
-- [ ] fazer a questzinha mysterious ornate chest pra pegar o mapa de krailos/otherworld
+- [x] fazer a questzinha mysterious ornate chest pra pegar o mapa de krailos/otherworld
 - [x] seacrest grounts tem que fazer uma questzinha de acesso (http://tibiawiki.com.br/wiki/Twenty_Miles_Beneath_the_Sea_Quest)
-- [ ] entrada do spirit gates em vengoth
+- [x] entrada do spirit gates em vengoth
 - [x] entradas do the otherworld de edron, farmine, kazordoon e svargrond
 - [x] cavezinha em edron (eu explico onde fica complicado falar sem ir lá)
 - [x] retrackear a cave de quaras em PH (oriento onde fica)
 - [x] arenas PVE edron, ankrahmun, oramond
+- [x] seacrest grounds (COMPLETO)
 
 # ideias para magias
 - [ ] Sparks - dois shoots de energy
