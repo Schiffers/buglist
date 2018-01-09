@@ -165,7 +165,6 @@
 - [x] cavezinha em edron (eu explico onde fica complicado falar sem ir lá)
 - [x] retrackear a cave de quaras em PH (oriento onde fica)
 - [x] arenas PVE edron, ankrahmun, oramond
-- [x] seacrest grounds (COMPLETO)
 
 # ideias para magias
 - [ ] Sparks - dois shoots de energy
@@ -250,7 +249,13 @@ no ultimo andar o boss mais forte
 - [ ] sistema de hit consecutivo, exemplo, se o player hitar mais que X em X vezes seguidas dará um dano a mais, como se fosse um critical, mas isso ainda pode ser somado com o critical, exemplo prático:
 - [ ] player hitou 4 vezes um valor maior que 500, o 5 hit (caso seja maior que 500) irá ter 100% de dano a mais
 - [ ] fazer umas raids que lembram o old tibia com "giant spiders" mais fortes que levam o terror hahahaha
-- [ ] evento de bosses/lutas entre players em que só quem tiver um ticket premiado pode entrar. O ticket pode ser dropado em carater extremamente raro de alguns tipos de monstros (preferencialmente os que tem pouco no map, (elder wyrm, seacrest serpent, black knight, dawnfire asura, midnight asura, omnivora, deepling elite, deepling tyrant, Execowtioner, feversleep, terrorsleep, shiversleep, sight of surrender, infernalist, shaburak prince, askarak prince, shock head, stone devourer, cliffstrider, lava golem
+- [ ] evento de bosses/lutas entre players em que só quem tiver um ticket premiado pode entrar. O ticket pode ser dropado em carater extremamente raro de alguns tipos de monstros (preferencialmente os que tem pouco no map, (elder wyrm, seacrest serpent, black knight, dawnfire asura, midnight asura, omnivora, deepling elite, deepling tyrant, Execowtioner, feversleep, terrorsleep, shiversleep, sight of surrender, infernalist, shaburak prince, askarak prince, shock head, stone devourer, cliffstrider, lava golem)
+
+- [ ] npcs alugando montarias (principalmente aquelas da store)
+- [ ] "cooking" de comidas, parecida com a quest, porém bem mais complexo e com vários tipos de foods
+- [ ] sistema de subclasse (ferreiro, marceneiro, cozinheiro, alquimista(vai craftar poções, e uns tipos de minérios)
+- [ ] Quests globais diárias, se completas sumonam tal boss (matar quantidades de monstros, etc)
+- [ ] dungeons com certo número de players (1 até 3 bosses)
 
 #nomes de cidades:
 maihama
