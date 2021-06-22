@@ -1,22 +1,14 @@
 # buglist
 
 # Source
-- [x] item custom attributes
-- [x] reward chest (socket)
-- [x] equip hotkey (bruno)
 - [x] passive monsters
-- [x] store 10.97 working
 - [x] removido o tempo de espera no walkthrogh de players em PZ
-- [x] fly system (Mkalo)
 - [x] function onSpawn() (printer)
 - [x] functions do sistema de "discover" https://github.com/ranisalt/forgottenserver/commit/9554f746f8ee987bad6ec1b14d9f373c540315c2 
 - [x] clean protection zones
 - [x] function creature:moveTo()
 - [x] store inbox
 - [x] gold pounch (pagination)
-- [x] blessing adventurer https://github.com/brunominervino/tfs_systems/tree/bless
-- [x] orange skull system
-- [x] window skulls 
 
 
 # Quests to do
@@ -52,7 +44,6 @@
 - [ ] fazer tasks dos monstros {hellflayer, askarak demons, shaburak demons, carrion worm, ogres, ashuras, ice witch, fury, were creatures, seacrest sea serpent, grimeleech, vexclaw}
 - [x] arrumar monstro chayenne, assim como sua raid etc
 - [x] colocar raids de walker e tirar os respawns fixos ou colocar um timer maior de respawn
-- [x] colocar nomes dos items 10.90/94 items de quest
 - [x] fazer global events que irá ficar fazendo effects no mapa (grimvale, deeplings)
 - [ ] fazer npcs pra serem colocados nas cidades novas (banker, boat, magic shop, rent horses, temple, armor and weapons seller/buyer, furniture, etc)
 - [x] fazer action da bone pile de roshamuul pra sumonar guzzlemaw
@@ -101,7 +92,7 @@
 - [x] arrumar os respawns dos bosses visto que agora não é possivel bloquear o respawn deles
 - [x] arrumar escadas da cave de dragon lords de darashia
 - [x] arrumar uma montanha "bugada" na cave dos dragon lords em darashia
-- [x] arrumar o burado do "atalho" da poi
+- [x] arrumar o buraco do "atalho" da poi
 - [x] colocar respawn na montanha de dragons perto da tumba de pixe
 - [x] arrumar a saida do chayenne dream realm
 - [x] remover necessidade dos soils pra entrar nos demons de yalahar
